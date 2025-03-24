@@ -1,0 +1,19 @@
+
+[zombies]
+	#Set a zombie extra damage, default is 2.0
+	zombieExtraDamage = 2.0
+	#Set a zombie spawn max zombies multiplier, default is 120
+	maxZombiesInWorld = 120
+	#Set a zombie speed at night, default is 0.4
+	zombieNightSpeed = 0.4
+	#Set a zombie delay to break blocks, default is 5
+	maxZombieBreakBlockProgress = 5
+	#Enable zombies breaking blocks, default is true
+	enableZombieBreakBlocks = true
+	#Enable zombies breaking lights (torches), default is true
+	enableZombieBreakLights = true
+	#Enable zombies to be sensitive to sunlight (burn in day). Default is false
+	enableZombieSunSensitivity = false
+	#List of blocks that zombies can break. Use full registry names, e.g., 'minecraft:cobblestone'
+	zombieBreakableBlocks = ["minecraft:cobblestone", "minecraft:stone", "minecraft:dirt", "minecraft:grass_block", "minecraft:sand", "minecraft:glass", "minecraft:glass_pane"]
+
