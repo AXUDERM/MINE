@@ -733,3 +733,91 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 02:09:51.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
 [25Mar2025 02:09:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
 [25Mar2025 02:09:51.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:13:43.167] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:35223] logged in with entity id 19567 at (770.8116744198782, 98.0, -50.89343379004965)
+[25Mar2025 02:13:43.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:13:43.214] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:13:43.398] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:13:43.398] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:14:03.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Gamerule spawnRadius is now set to: 5]
+[25Mar2025 02:14:17.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Gamerule playersSleepingPercentage is now set to: 2]
+[25Mar2025 02:14:39.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Gamerule doWeatherCycle is now set to: true]
+[25Mar2025 02:14:46.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
+[25Mar2025 02:14:46.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:14:46.463] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:17:28.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIP_amell27[/127.141.144.18:55211] logged in with entity id 19906 at (770.5, 98.0, -54.5)
+[25Mar2025 02:17:28.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 joined the game
+[25Mar2025 02:17:28.349] [Server thread/INFO] [Jade/]: Syncing config to RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d)
+[25Mar2025 02:17:28.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has reached the goal [Easter]
+[25Mar2025 02:17:28.724] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:46463] logged in with entity id 19950 at (770.8116744198782, 98.0, -50.89343379004965)
+[25Mar2025 02:17:28.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:17:28.771] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:17:28.967] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:17:28.968] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:17:30.487] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RIP_amell27 (18)
+[25Mar2025 02:17:30.488] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RIP_amell27
+[25Mar2025 02:18:27.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Alex's Mobs]
+[25Mar2025 02:18:46.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASTORIAZ> esperamos al jairo?
+[25Mar2025 02:19:05.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:05.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:06.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=97, z=-53}
+[25Mar2025 02:19:06.646] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:06.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:07.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=769, y=97, z=-53}
+[25Mar2025 02:19:08.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=769, y=97, z=-53}
+[25Mar2025 02:19:08.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:08.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:09.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:09.314] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:09.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:09.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:10.054] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:10.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:10.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:11.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=768, y=97, z=-53}
+[25Mar2025 02:19:13.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=97, z=-56}
+[25Mar2025 02:19:13.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=97, z=-57}
+[25Mar2025 02:19:13.451] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=97, z=-57}
+[25Mar2025 02:19:13.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=98, z=-58}
+[25Mar2025 02:19:35.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> eres admin
+[25Mar2025 02:19:41.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASTORIAZ> no
+[25Mar2025 02:19:44.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> a
+[25Mar2025 02:19:49.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=99, z=-58}
+[25Mar2025 02:19:50.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=99, z=-58}
+[25Mar2025 02:19:50.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=99, z=-58}
+[25Mar2025 02:19:50.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=99, z=-58}
+[25Mar2025 02:19:50.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-58}
+[25Mar2025 02:19:50.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-58}
+[25Mar2025 02:19:50.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=99, z=-58}
+[25Mar2025 02:19:51.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-57}
+[25Mar2025 02:19:51.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=98, z=-57}
+[25Mar2025 02:19:51.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-58}
+[25Mar2025 02:19:51.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-58}
+[25Mar2025 02:19:52.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=99, z=-58}
+[25Mar2025 02:19:52.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=766, y=99, z=-58}
+[25Mar2025 02:19:52.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=98, z=-58}
+[25Mar2025 02:19:53.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=99, z=-58}
+[25Mar2025 02:19:54.043] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-57}
+[25Mar2025 02:19:54.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-57}
+[25Mar2025 02:19:54.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-56}
+[25Mar2025 02:19:55.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=98, z=-52}
+[25Mar2025 02:19:55.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-53}
+[25Mar2025 02:19:55.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=98, z=-56}
+[25Mar2025 02:19:57.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-48}
+[25Mar2025 02:19:58.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=99, z=-48}
+[25Mar2025 02:20:00.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-53}
+[25Mar2025 02:20:00.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=98, z=-55}
+[25Mar2025 02:20:01.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=771, y=99, z=-58}
+[25Mar2025 02:20:01.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=772, y=99, z=-58}
+[25Mar2025 02:20:01.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=770, y=99, z=-58}
+[25Mar2025 02:20:02.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=765, y=99, z=-58}
+[25Mar2025 02:20:02.701] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=98, z=-54}
+[25Mar2025 02:20:03.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-54}
+[25Mar2025 02:20:03.145] [Server thread/WARN] [tombstone/]: The death event of the player ASTORIAZ was canceled by another mod
+[25Mar2025 02:20:03.146] [Server thread/INFO] [tombstone/]: The player ASTORIAZ has successfully been saved
+[25Mar2025 02:20:09.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was slain by RIP_amell27
+[25Mar2025 02:20:21.152] [Server thread/WARN] [tombstone/]: The death event of the player RIP_amell27 was canceled by another mod
+[25Mar2025 02:20:21.153] [Server thread/INFO] [tombstone/]: The player RIP_amell27 has successfully been saved
+[25Mar2025 02:20:27.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was slain by ASTORIAZ
+[25Mar2025 02:20:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Your First Grave]
+[25Mar2025 02:20:34.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=97, z=-49}
+[25Mar2025 02:20:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has reached the goal [Here They Come]
