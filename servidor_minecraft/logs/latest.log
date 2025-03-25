@@ -717,3 +717,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 16:28:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ blew up
 [25Mar2025 16:33:45.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-48}
 [25Mar2025 16:33:46.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-49}
+[25Mar2025 16:35:43.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-48}
+[25Mar2025 16:36:15.577] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=771, y=58, z=-68}
+[25Mar2025 16:40:52.630] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [18, 6], discarding
+[25Mar2025 16:40:52.631] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [19, 6], discarding
+[25Mar2025 16:40:52.636] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [18, 7], discarding
+[25Mar2025 16:40:52.637] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: tombstone:abandoned_grave_ocean
+[25Mar2025 16:40:52.637] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [19, 7], discarding
+[25Mar2025 16:40:54.071] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3920, l='ServerLevel[world]', x=565.39, y=62.40, z=206.24, removed=DISCARDED]
+[25Mar2025 16:43:01.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was doomed to fall by Bison
+[25Mar2025 16:43:02.861] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3920, l='ServerLevel[world]', x=565.39, y=62.40, z=206.24, removed=DISCARDED]
+[25Mar2025 16:43:37.204] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/3920, l='ServerLevel[world]', x=565.39, y=62.40, z=206.24, removed=DISCARDED]
+[25Mar2025 16:44:02.887] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [18, 6], discarding
+[25Mar2025 16:44:02.888] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [19, 6], discarding
+[25Mar2025 16:44:02.893] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [18, 7], discarding
+[25Mar2025 16:44:02.894] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: tombstone:abandoned_grave_ocean
+[25Mar2025 16:44:02.894] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_ocean' in chunk [19, 7], discarding
+[25Mar2025 16:44:53.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Sweet Dreams]
+[25Mar2025 16:44:56.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> zzzz
+[25Mar2025 16:44:59.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> JairoJ13_
