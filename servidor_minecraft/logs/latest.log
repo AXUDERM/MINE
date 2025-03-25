@@ -821,3 +821,90 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 02:20:27.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Your First Grave]
 [25Mar2025 02:20:34.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=767, y=97, z=-49}
 [25Mar2025 02:20:34.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has reached the goal [Here They Come]
+[25Mar2025 02:20:58.600] [Server thread/WARN] [tombstone/]: The death event of the player RIP_amell27 was canceled by another mod
+[25Mar2025 02:20:58.607] [Server thread/INFO] [tombstone/]: The player RIP_amell27 has successfully been saved
+[25Mar2025 02:21:03.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 went up in flames
+[25Mar2025 02:21:03.264] [Server thread/INFO] [tombstone/]: The player RIP_amell27 has successfully been saved
+[25Mar2025 02:21:03.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASTORIAZ> xd
+[25Mar2025 02:21:12.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> a bueno
+[25Mar2025 02:21:28.864] [Server thread/WARN] [tombstone/]: The death event of the player RIP_amell27 was canceled by another mod
+[25Mar2025 02:21:28.872] [Server thread/INFO] [tombstone/]: The player RIP_amell27 has successfully been saved
+[25Mar2025 02:21:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Knowledge of Death]
+[25Mar2025 02:21:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has reached the goal [Chain Death]
+[25Mar2025 02:21:36.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 blew up
+[25Mar2025 02:21:40.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASTORIAZ> bno
+[25Mar2025 02:21:44.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-57}
+[25Mar2025 02:21:44.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=764, y=99, z=-57}
+[25Mar2025 02:21:50.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 was kicked for floating too long!
+[25Mar2025 02:21:50.912] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 lost connection: Disconnected
+[25Mar2025 02:21:50.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 left the game
+[25Mar2025 02:21:50.912] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RIP_amell27
+[25Mar2025 02:21:50.961] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Mar2025 02:22:12.109] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
+[25Mar2025 02:22:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:22:12.110] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:22:18.567] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIP_amell27[/127.141.144.18:59293] logged in with entity id 21771 at (773.4880988098695, 88.11071530842175, -38.35427068846037)
+[25Mar2025 02:22:18.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 joined the game
+[25Mar2025 02:22:18.594] [Server thread/INFO] [Jade/]: Syncing config to RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d)
+[25Mar2025 02:22:19.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RIP_amell27 (18)
+[25Mar2025 02:22:19.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RIP_amell27
+[25Mar2025 02:22:32.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 was kicked for floating too long!
+[25Mar2025 02:22:32.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 lost connection: Flying is not enabled on this server
+[25Mar2025 02:22:32.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 left the game
+[25Mar2025 02:22:32.763] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RIP_amell27
+[25Mar2025 02:22:57.212] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIP_amell27[/127.141.144.18:38583] logged in with entity id 21919 at (773.4880988098695, 73.73637389992248, -38.35427068846037)
+[25Mar2025 02:22:57.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 joined the game
+[25Mar2025 02:22:57.245] [Server thread/INFO] [Jade/]: Syncing config to RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d)
+[25Mar2025 02:22:57.540] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RIP_amell27 (18)
+[25Mar2025 02:22:57.540] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RIP_amell27
+[25Mar2025 02:23:11.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has reached the goal [Easy Opening]
+[25Mar2025 02:24:29.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:42937] logged in with entity id 22509 at (784.7615690204565, 63.0, -35.880121591156346)
+[25Mar2025 02:24:29.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:24:29.357] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:24:29.584] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:24:29.585] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:26:06.359] [Server thread/WARN] [tombstone/]: The death event of the player ASTORIAZ was canceled by another mod
+[25Mar2025 02:26:06.364] [Server thread/INFO] [tombstone/]: The player ASTORIAZ has successfully been saved
+[25Mar2025 02:26:12.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was slain by Zombie
+[25Mar2025 02:26:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> como era el chat de voz
+[25Mar2025 02:26:27.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ was kicked for floating too long!
+[25Mar2025 02:26:27.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Flying is not enabled on this server
+[25Mar2025 02:26:27.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:26:27.912] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:26:37.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:53899] logged in with entity id 23550 at (763.8503005097082, 88.46026947021555, -79.15383747171506)
+[25Mar2025 02:26:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:26:38.008] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:26:38.203] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:26:38.204] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:26:45.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ was kicked for floating too long!
+[25Mar2025 02:26:45.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Flying is not enabled on this server
+[25Mar2025 02:26:45.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:26:45.466] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:26:53.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:35973] logged in with entity id 23690 at (760.4780352425635, 73.21204265723156, -83.83643049894339)
+[25Mar2025 02:26:53.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:26:53.599] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:26:53.799] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:26:53.799] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:27:04.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ASTORIAZ> no funciona
+[25Mar2025 02:27:09.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> a
+[25Mar2025 02:27:38.814] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 lost connection: Disconnected
+[25Mar2025 02:27:38.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 left the game
+[25Mar2025 02:27:38.814] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client RIP_amell27
+[25Mar2025 02:28:11.710] [Server thread/WARN] [tombstone/]: The death event of the player ASTORIAZ was canceled by another mod
+[25Mar2025 02:28:11.712] [Server thread/INFO] [tombstone/]: The player ASTORIAZ has successfully been saved
+[25Mar2025 02:28:19.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@52b98db2[id=<null>,name=RIP_amell27,properties={},legacy=false] (/127.141.144.18:53673) lost connection: Disconnected
+[25Mar2025 02:28:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was slain by Zombie Villager
+[25Mar2025 02:28:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has made the advancement [Knowledge of Death]
+[25Mar2025 02:28:29.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has reached the goal [Easy Opening]
+[25Mar2025 02:28:30.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has made the advancement [Funeral Theft]
+[25Mar2025 02:28:31.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIP_amell27[/127.141.144.18:53757] logged in with entity id 24726 at (801.4949603328612, 76.0, -9.699999988079071)
+[25Mar2025 02:28:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 joined the game
+[25Mar2025 02:28:31.699] [Server thread/INFO] [Jade/]: Syncing config to RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d)
+[25Mar2025 02:28:32.016] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RIP_amell27 (18)
+[25Mar2025 02:28:32.017] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RIP_amell27
+[25Mar2025 02:29:13.214] [Server thread/WARN] [tombstone/]: The death event of the player ASTORIAZ was canceled by another mod
+[25Mar2025 02:29:13.216] [Server thread/INFO] [tombstone/]: The player ASTORIAZ has successfully been saved
+[25Mar2025 02:29:23.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
+[25Mar2025 02:29:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:29:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was slain by Zombie Cyborg
+[25Mar2025 02:29:23.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
