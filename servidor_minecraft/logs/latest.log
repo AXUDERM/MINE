@@ -908,3 +908,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 02:29:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
 [25Mar2025 02:29:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was slain by Zombie Cyborg
 [25Mar2025 02:29:23.415] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:32:08.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Funeral Theft]
+[25Mar2025 02:36:03.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Easter Egg Searcher]
+[25Mar2025 02:36:16.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Stone Age]
+[25Mar2025 02:36:46.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 has made the advancement [Getting an Upgrade]
