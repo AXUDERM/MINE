@@ -9230,3 +9230,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 01:47:14.326] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [25Mar2025 01:47:14.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [25Mar2025 01:50:31.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Creative Mode]
+[25Mar2025 01:52:14.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:52:14.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 01:52:35.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/9775, l='ServerLevel[world]', x=767.50, y=98.00, z=-52.50]
+[25Mar2025 01:53:52.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has made the advancement [Monster Hunter]
+[25Mar2025 01:53:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Killed Drowned]
+[25Mar2025 01:55:53.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has made the advancement [No Step on Snake]
+[25Mar2025 01:57:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Survival Mode]
+[25Mar2025 01:57:14.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Mar2025 01:57:14.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Mar2025 01:58:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set the world spawn point to 769, 97, -53 [0.0]]
+[25Mar2025 01:59:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Creative Mode]
