@@ -715,3 +715,21 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [25Mar2025 01:57:12.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Survival Mode]
 [25Mar2025 01:58:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set the world spawn point to 769, 97, -53 [0.0]]
 [25Mar2025 01:59:28.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Creative Mode]
+[25Mar2025 02:07:05.862] [Server thread/WARN] [tombstone/]: The death event of the player ASTORIAZ was canceled by another mod
+[25Mar2025 02:07:06.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Killed 284 entities]
+[25Mar2025 02:07:06.275] [Server thread/INFO] [tombstone/]: The player ASTORIAZ has successfully been saved
+[25Mar2025 02:07:12.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ was killed
+[25Mar2025 02:07:12.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has made the advancement [Your First Grave]
+[25Mar2025 02:07:28.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ has reached the goal [Here They Come]
+[25Mar2025 02:09:28.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
+[25Mar2025 02:09:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:09:28.364] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
+[25Mar2025 02:09:36.176] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ASTORIAZ[/127.36.115.209:45973] logged in with entity id 19314 at (773.2762420000399, 70.26296888971416, -49.18549065362217)
+[25Mar2025 02:09:36.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ joined the game
+[25Mar2025 02:09:36.225] [Server thread/INFO] [Jade/]: Syncing config to ASTORIAZ (1fa7959d-8dc5-32a3-9bec-b97ba933f609)
+[25Mar2025 02:09:36.525] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of ASTORIAZ (18)
+[25Mar2025 02:09:36.525] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ASTORIAZ
+[25Mar2025 02:09:50.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ASTORIAZ: Set own game mode to Survival Mode]
+[25Mar2025 02:09:51.612] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ASTORIAZ lost connection: Disconnected
+[25Mar2025 02:09:51.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ASTORIAZ left the game
+[25Mar2025 02:09:51.613] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ASTORIAZ
