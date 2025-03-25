@@ -1,294 +1,589 @@
-[25Mar2025 15:59:05.235] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[25Mar2025 15:59:05.238] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[25Mar2025 15:59:05.918] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[25Mar2025 15:59:05.929] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[25Mar2025 15:59:05.930] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23160!/
-[25Mar2025 15:59:05.937] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[25Mar2025 15:59:05.939] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[25Mar2025 15:59:05.998] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[25Mar2025 15:59:06.007] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[25Mar2025 15:59:06.327] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[25Mar2025 15:59:06.328] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Mar2025 15:59:06.330] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Mar2025 15:59:06.331] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[25Mar2025 15:59:06.609] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[25Mar2025 15:59:06.611] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[25Mar2025 15:59:06.611] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
-[25Mar2025 15:59:06.611] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[25Mar2025 15:59:07.195] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[25Mar2025 15:59:07.207] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[25Mar2025 15:59:07.999] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[25Mar2025 15:59:09.173] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[25Mar2025 15:59:09.249] [main/ERROR] [mixin/]: Mixin config mozombieswave-common.mixins.json does not specify "minVersion" property
-[25Mar2025 15:59:09.251] [main/ERROR] [mixin/]: Mixin config mozombieswave.mixins.json does not specify "minVersion" property
-[25Mar2025 15:59:09.317] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[25Mar2025 15:59:09.320] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[25Mar2025 15:59:09.325] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[25Mar2025 15:59:09.494] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-common-refmap.json' for mozombieswave-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 15:59:09.499] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-forge-refmap.json' for mozombieswave.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 15:59:09.501] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 15:59:09.511] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[25Mar2025 15:59:10.925] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[25Mar2025 15:59:10.926] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[25Mar2025 15:59:10.926] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[25Mar2025 15:59:10.931] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[25Mar2025 15:59:10.931] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[25Mar2025 15:59:10.932] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[25Mar2025 15:59:10.934] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[25Mar2025 15:59:10.934] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[25Mar2025 15:59:11.329] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[25Mar2025 15:59:17.373] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[25Mar2025 16:25:44.105] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[25Mar2025 16:25:44.109] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[25Mar2025 16:25:44.628] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[25Mar2025 16:25:44.637] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[25Mar2025 16:25:44.638] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23160!/
+[25Mar2025 16:25:44.645] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[25Mar2025 16:25:44.648] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[25Mar2025 16:25:44.722] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[25Mar2025 16:25:44.733] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[25Mar2025 16:25:45.119] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 16:25:45.121] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 16:25:45.122] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 16:25:45.123] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[25Mar2025 16:25:45.463] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[25Mar2025 16:25:45.464] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[25Mar2025 16:25:45.465] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
+[25Mar2025 16:25:45.465] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[25Mar2025 16:25:46.070] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[25Mar2025 16:25:46.081] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[25Mar2025 16:25:47.024] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[25Mar2025 16:25:48.003] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[25Mar2025 16:25:48.114] [main/ERROR] [mixin/]: Mixin config mozombieswave-common.mixins.json does not specify "minVersion" property
+[25Mar2025 16:25:48.115] [main/ERROR] [mixin/]: Mixin config mozombieswave.mixins.json does not specify "minVersion" property
+[25Mar2025 16:25:48.176] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[25Mar2025 16:25:48.177] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[25Mar2025 16:25:48.181] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[25Mar2025 16:25:48.367] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-common-refmap.json' for mozombieswave-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 16:25:48.369] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-forge-refmap.json' for mozombieswave.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 16:25:48.371] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 16:25:48.379] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[25Mar2025 16:25:49.868] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[25Mar2025 16:25:49.869] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[25Mar2025 16:25:49.869] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[25Mar2025 16:25:49.874] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[25Mar2025 16:25:49.875] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[25Mar2025 16:25:49.875] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[25Mar2025 16:25:49.877] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[25Mar2025 16:25:49.877] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[25Mar2025 16:25:50.210] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[25Mar2025 16:25:56.366] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[25Mar2025 15:59:18.149] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[25Mar2025 15:59:18.343] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/jeresources.toml is not correct. Correcting
-[25Mar2025 15:59:18.344] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
-[25Mar2025 15:59:18.347] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
-[25Mar2025 15:59:18.347] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
-[25Mar2025 15:59:18.348] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
-[25Mar2025 15:59:18.348] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
-[25Mar2025 15:59:18.349] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
-[25Mar2025 15:59:18.349] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
-[25Mar2025 15:59:18.350] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[25Mar2025 15:59:18.350] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[25Mar2025 15:59:18.352] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
-[25Mar2025 15:59:18.386] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
-[25Mar2025 15:59:18.391] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[25Mar2025 15:59:18.391] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[25Mar2025 15:59:18.528] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
-[25Mar2025 15:59:18.609] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[25Mar2025 15:59:18.862] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[25Mar2025 15:59:19.575] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
-[25Mar2025 15:59:19.845] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[25Mar2025 15:59:19.845] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[25Mar2025 15:59:19.846] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[25Mar2025 15:59:19.846] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[25Mar2025 15:59:20.211] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[25Mar2025 15:59:20.212] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[25Mar2025 15:59:20.212] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[25Mar2025 15:59:20.213] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[25Mar2025 15:59:20.213] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[25Mar2025 15:59:20.243] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[25Mar2025 15:59:20.264] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[25Mar2025 15:59:21.215] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@14c75caf has been registered twice for the same name treechop:chop_wood.
-[25Mar2025 15:59:25.228] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[25Mar2025 15:59:25.237] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[25Mar2025 15:59:25.240] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[25Mar2025 15:59:25.242] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[25Mar2025 15:59:25.348] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[25Mar2025 15:59:25.357] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[25Mar2025 15:59:25.403] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/waystones-common.toml is not correct. Correcting
-[25Mar2025 15:59:25.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.inverseXpCost was corrected from null to its default, false. 
-[25Mar2025 15:59:25.404] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.blocksPerXpLevel was corrected from null to its default, 1000. 
-[25Mar2025 15:59:25.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.minimumBaseXpCost was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.maximumBaseXpCost was corrected from null to its default, 3.0. 
-[25Mar2025 15:59:25.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.xpCostPerLeashed was corrected from null to its default, 0. 
-[25Mar2025 15:59:25.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.dimensionalWarpXpCost was corrected from null to its default, 3. 
-[25Mar2025 15:59:25.405] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.globalWaystoneXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.warpStoneXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.waystoneXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.sharestoneXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.portstoneXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.warpPlateXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.406] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key xpCost.inventoryButtonXpCostMultiplier was corrected from null to its default, 0.0. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.restrictToCreative was corrected from null to its default, false. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.restrictRenameToOwner was corrected from null to its default, false. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.generatedWaystonesUnbreakable was corrected from null to its default, false. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.transportLeashed was corrected from null to its default, true. 
-[25Mar2025 15:59:25.407] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.transportLeashedDimensional was corrected from null to its default, true. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.leashedDenyList was corrected from null to its default, [minecraft:wither]. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarp was corrected from null to its default, ALLOW. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarpAllowList was corrected from null to its default, []. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.dimensionalWarpDenyList was corrected from null to its default, []. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.allowWaystoneToWaystoneTeleport was corrected from null to its default, true. 
-[25Mar2025 15:59:25.408] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key restrictions.globalWaystoneSetupRequiresCreativeMode was corrected from null to its default, true. 
-[25Mar2025 15:59:25.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.globalWaystoneCooldownMultiplier was corrected from null to its default, 1.0. 
-[25Mar2025 15:59:25.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpStoneCooldown was corrected from null to its default, 30. 
-[25Mar2025 15:59:25.409] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpStoneUseTime was corrected from null to its default, 32. 
-[25Mar2025 15:59:25.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.warpPlateUseTime was corrected from null to its default, 20. 
-[25Mar2025 15:59:25.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.scrollUseTime was corrected from null to its default, 32. 
-[25Mar2025 15:59:25.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cooldowns.inventoryButtonCooldown was corrected from null to its default, 300. 
-[25Mar2025 15:59:25.410] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.inventoryButton was corrected from null to its default, . 
-[25Mar2025 15:59:25.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.warpButtonX was corrected from null to its default, 58. 
-[25Mar2025 15:59:25.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.warpButtonY was corrected from null to its default, 60. 
-[25Mar2025 15:59:25.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeWarpButtonX was corrected from null to its default, 88. 
-[25Mar2025 15:59:25.411] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryButton.creativeWarpButtonY was corrected from null to its default, 33. 
-[25Mar2025 15:59:25.412] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.412] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.worldGenStyle was corrected from null to its default, BIOME. 
-[25Mar2025 15:59:25.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.frequency was corrected from null to its default, 25. 
-[25Mar2025 15:59:25.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.dimensionAllowList was corrected from null to its default, [minecraft:overworld, minecraft:the_nether, minecraft:the_end]. 
-[25Mar2025 15:59:25.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.dimensionDenyList was corrected from null to its default, []. 
-[25Mar2025 15:59:25.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.nameGenerationMode was corrected from null to its default, PRESET_FIRST. 
-[25Mar2025 15:59:25.413] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.customWaystoneNames was corrected from null to its default, []. 
-[25Mar2025 15:59:25.414] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.spawnInVillages was corrected from null to its default, true. 
-[25Mar2025 15:59:25.414] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key worldGen.forceSpawnInVillages was corrected from null to its default, false. 
-[25Mar2025 15:59:25.414] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.415] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key client.disableTextGlow was corrected from null to its default, false. 
-[25Mar2025 15:59:25.415] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.415] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.displayWaystonesOnJourneyMap was corrected from null to its default, true. 
-[25Mar2025 15:59:25.416] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key compatibility.preferJourneyMapIntegration was corrected from null to its default, true. 
-[25Mar2025 15:59:25.420] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/balm-common.toml is not correct. Correcting
-[25Mar2025 15:59:25.420] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleBoolean was corrected from null to its default, true. 
-[25Mar2025 15:59:25.422] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleInt was corrected from null to its default, 42. 
-[25Mar2025 15:59:25.423] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleString was corrected from null to its default, Hello World. 
-[25Mar2025 15:59:25.424] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleMultilineString was corrected from null to its default, Hello World. 
-[25Mar2025 15:59:25.424] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleEnum was corrected from null to its default, Hello. 
-[25Mar2025 15:59:25.425] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleStringList was corrected from null to its default, [Hello, World]. 
-[25Mar2025 15:59:25.426] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleIntList was corrected from null to its default, [12, 24]. 
-[25Mar2025 15:59:25.427] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleEnumList was corrected from null to its default, [Hello, World]. 
-[25Mar2025 15:59:25.427] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleCategory was corrected from null to its default, SimpleCommentedConfig:{}. 
-[25Mar2025 15:59:25.427] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleCategory.innerField was corrected from null to its default, I am inside. 
-[25Mar2025 15:59:25.428] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key exampleCategory.exampleFloat was corrected from null to its default, 42.84000015258789. 
-[25Mar2025 15:59:25.489] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/jeresources-common.toml is not correct. Correcting
-[25Mar2025 15:59:25.489] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
-[25Mar2025 15:59:25.490] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
-[25Mar2025 15:59:25.491] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
-[25Mar2025 15:59:25.491] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
-[25Mar2025 15:59:25.491] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
-[25Mar2025 15:59:25.492] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
-[25Mar2025 15:59:25.492] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
-[25Mar2025 15:59:25.492] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
-[25Mar2025 15:59:25.565] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/toms_storage-common.toml is not correct. Correcting
-[25Mar2025 15:59:25.565] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key importantInfo was corrected from null to its default, true. 
-[25Mar2025 15:59:25.566] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key multiblockInv was corrected from null to its default, []. 
-[25Mar2025 15:59:25.566] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blockedMods was corrected from null to its default, []. 
-[25Mar2025 15:59:25.567] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blockedBlocks was corrected from null to its default, []. 
-[25Mar2025 15:59:25.568] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[25Mar2025 15:59:25.658] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
-[25Mar2025 15:59:25.672] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[25Mar2025 15:59:25.730] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [alexsmobsnaturalistcompat] Starting version check at https://api.modrinth.com/updates/v0NxYynO/forge_updates.json
-[25Mar2025 15:59:25.783] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[25Mar2025 15:59:25.795] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[25Mar2025 15:59:25.806] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[25Mar2025 15:59:25.807] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[25Mar2025 15:59:25.832] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[25Mar2025 15:59:25.833] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[25Mar2025 15:59:25.839] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[25Mar2025 15:59:25.844] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[25Mar2025 15:59:25.845] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[25Mar2025 15:59:25.845] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[25Mar2025 15:59:25.845] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[25Mar2025 15:59:25.845] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[25Mar2025 15:59:25.886] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[25Mar2025 15:59:25.893] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[25Mar2025 15:59:25.920] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[25Mar2025 15:59:26.034] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[25Mar2025 15:59:26.035] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[25Mar2025 15:59:26.037] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[25Mar2025 15:59:26.037] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[25Mar2025 15:59:26.095] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[25Mar2025 16:25:57.211] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[25Mar2025 16:25:57.410] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
+[25Mar2025 16:25:57.413] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[25Mar2025 16:25:57.413] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[25Mar2025 16:25:57.504] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[25Mar2025 16:25:57.504] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[25Mar2025 16:25:57.828] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
+[25Mar2025 16:25:57.840] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[25Mar2025 16:25:57.959] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[25Mar2025 16:25:58.593] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[25Mar2025 16:25:58.593] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[25Mar2025 16:25:58.593] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[25Mar2025 16:25:58.594] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[25Mar2025 16:25:58.601] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
+[25Mar2025 16:25:59.123] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[25Mar2025 16:25:59.127] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[25Mar2025 16:25:59.127] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[25Mar2025 16:25:59.146] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[25Mar2025 16:25:59.146] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[25Mar2025 16:25:59.146] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[25Mar2025 16:25:59.202] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[25Mar2025 16:25:59.223] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[25Mar2025 16:26:00.527] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@136ee66d has been registered twice for the same name treechop:chop_wood.
+[25Mar2025 16:26:04.584] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[25Mar2025 16:26:04.594] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[25Mar2025 16:26:04.597] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[25Mar2025 16:26:04.599] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[25Mar2025 16:26:04.725] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[25Mar2025 16:26:04.743] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[25Mar2025 16:26:04.942] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/SERVER/servidor_minecraft/config/torchmaster.toml is not correct. Correcting
+[25Mar2025 16:26:04.943] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General was corrected from null to its default, SimpleCommentedConfig:{}. 
+[25Mar2025 16:26:04.944] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.beginnerTooltips was corrected from null to its default, true. 
+[25Mar2025 16:26:04.944] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.blockOnlyNaturalSpawns was corrected from null to its default, true. 
+[25Mar2025 16:26:04.944] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.lycanitesMobsBlockAll was corrected from null to its default, true. 
+[25Mar2025 16:26:04.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.blockVillageSieges was corrected from null to its default, true. 
+[25Mar2025 16:26:04.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.megaTorchRadius was corrected from null to its default, 64. 
+[25Mar2025 16:26:04.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.dreadLampRadius was corrected from null to its default, 64. 
+[25Mar2025 16:26:04.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.megaTorchEntityBlockListOverrides was corrected from null to its default, []. 
+[25Mar2025 16:26:04.945] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.dreadLampEntityBlockListOverrides was corrected from null to its default, []. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.feralFlareRadius was corrected from null to its default, 16. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.feralFlareTickRate was corrected from null to its default, 5. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.feralFlareMinLightLevel was corrected from null to its default, 10. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.feralFlareLanternLightCountHardcap was corrected from null to its default, 255. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.frozenPearlDurability was corrected from null to its default, 1024. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.logSpawnChecks was corrected from null to its default, false. 
+[25Mar2025 16:26:04.946] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key General.aggressiveSpawnChecks was corrected from null to its default, false. 
+[25Mar2025 16:26:04.957] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[25Mar2025 16:26:05.072] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[25Mar2025 16:26:05.118] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[25Mar2025 16:26:05.134] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [alexsmobsnaturalistcompat] Starting version check at https://api.modrinth.com/updates/v0NxYynO/forge_updates.json
+[25Mar2025 16:26:05.225] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[25Mar2025 16:26:05.233] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[25Mar2025 16:26:05.255] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[25Mar2025 16:26:05.256] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[25Mar2025 16:26:05.292] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[25Mar2025 16:26:05.292] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[25Mar2025 16:26:05.292] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[25Mar2025 16:26:05.293] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[25Mar2025 16:26:05.294] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[25Mar2025 16:26:05.294] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[25Mar2025 16:26:05.294] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[25Mar2025 16:26:05.294] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[25Mar2025 16:26:05.295] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[25Mar2025 16:26:05.295] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[25Mar2025 16:26:05.296] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[25Mar2025 16:26:05.298] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[25Mar2025 16:26:05.304] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[25Mar2025 16:26:05.368] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[25Mar2025 16:26:05.380] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[25Mar2025 16:26:05.389] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[25Mar2025 16:26:05.519] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[25Mar2025 16:26:05.520] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[25Mar2025 16:26:05.522] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[25Mar2025 16:26:05.523] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[25Mar2025 16:26:05.611] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[25Mar2025 16:26:05.611] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "promos" is null
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:189) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23222!/:?]
-[25Mar2025 15:59:26.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[25Mar2025 15:59:26.106] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[25Mar2025 15:59:26.115] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[25Mar2025 15:59:26.117] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[25Mar2025 15:59:26.118] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[25Mar2025 15:59:26.120] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[25Mar2025 15:59:26.134] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[25Mar2025 15:59:26.139] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[25Mar2025 15:59:26.141] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[25Mar2025 15:59:26.143] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[25Mar2025 15:59:26.143] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[25Mar2025 15:59:26.399] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[25Mar2025 15:59:26.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
-[25Mar2025 15:59:26.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
-[25Mar2025 15:59:26.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[25Mar2025 15:59:27.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[25Mar2025 15:59:27.074] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[25Mar2025 15:59:28.175] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[25Mar2025 15:59:28.176] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[25Mar2025 15:59:28.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
-[25Mar2025 15:59:28.445] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[25Mar2025 15:59:28.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
-[25Mar2025 15:59:28.599] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[25Mar2025 15:59:28.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
-[25Mar2025 15:59:28.703] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[25Mar2025 15:59:29.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[25Mar2025 15:59:29.159] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[25Mar2025 15:59:29.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[25Mar2025 15:59:29.172] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[25Mar2025 15:59:29.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: UP_TO_DATE Current: 8.9.2 Target: null
-[25Mar2025 15:59:29.316] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[25Mar2025 15:59:29.409] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
-[25Mar2025 15:59:29.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[25Mar2025 15:59:29.518] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
-[25Mar2025 15:59:29.519] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[25Mar2025 15:59:29.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[25Mar2025 15:59:29.535] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[25Mar2025 15:59:29.833] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[25Mar2025 15:59:31.992] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[25Mar2025 15:59:32.090] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
-mixinextras (version 0.4.1 -> 0.2.0-beta.6)
+[25Mar2025 16:26:05.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[25Mar2025 16:26:05.614] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[25Mar2025 16:26:05.637] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[25Mar2025 16:26:05.645] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[25Mar2025 16:26:05.646] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[25Mar2025 16:26:05.647] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[25Mar2025 16:26:05.648] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[25Mar2025 16:26:05.662] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[25Mar2025 16:26:05.667] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[25Mar2025 16:26:05.670] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[25Mar2025 16:26:05.672] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[25Mar2025 16:26:05.899] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[25Mar2025 16:26:05.900] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
+[25Mar2025 16:26:06.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
+[25Mar2025 16:26:06.008] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[25Mar2025 16:26:06.580] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[25Mar2025 16:26:06.583] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[25Mar2025 16:26:07.420] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[25Mar2025 16:26:07.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[25Mar2025 16:26:07.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[25Mar2025 16:26:07.569] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[25Mar2025 16:26:07.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: AHEAD Current: 1.20.1-1.4.8 Target: null
+[25Mar2025 16:26:07.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[25Mar2025 16:26:07.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[25Mar2025 16:26:07.813] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[25Mar2025 16:26:08.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[25Mar2025 16:26:08.285] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[25Mar2025 16:26:08.394] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[25Mar2025 16:26:08.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[25Mar2025 16:26:08.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[25Mar2025 16:26:08.497] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[25Mar2025 16:26:08.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[25Mar2025 16:26:08.596] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[25Mar2025 16:26:08.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[25Mar2025 16:26:08.609] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[25Mar2025 16:26:08.846] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[25Mar2025 16:26:11.515] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[25Mar2025 16:26:11.631] [main/WARN] [net.minecraftforge.common.ForgeHooks/WP]: The following mods have version differences that were not resolved:
+tombstone (version 8.9.2 -> MISSING)
 Things may not work well.
-[25Mar2025 15:59:32.219] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:waystone Expected: 1004 Got: 3283
-[25Mar2025 15:59:32.220] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:mossy_waystone Expected: 1005 Got: 3284
-[25Mar2025 15:59:32.220] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:sandy_waystone Expected: 1006 Got: 3285
-[25Mar2025 15:59:32.220] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:sharestone Expected: 1007 Got: 3286
-[25Mar2025 15:59:32.221] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:warp_plate Expected: 1008 Got: 3287
-[25Mar2025 15:59:32.221] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:portstone Expected: 1009 Got: 3288
-[25Mar2025 15:59:32.221] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:white_sharestone Expected: 1010 Got: 3289
-[25Mar2025 15:59:32.221] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:orange_sharestone Expected: 1011 Got: 3290
-[25Mar2025 15:59:32.221] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:magenta_sharestone Expected: 1012 Got: 3291
-[25Mar2025 15:59:32.222] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:light_blue_sharestone Expected: 1013 Got: 3292
-[25Mar2025 15:59:32.222] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:yellow_sharestone Expected: 1014 Got: 3293
-[25Mar2025 15:59:32.222] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:lime_sharestone Expected: 1015 Got: 3294
-[25Mar2025 15:59:32.222] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:pink_sharestone Expected: 1016 Got: 3295
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:gray_sharestone Expected: 1017 Got: 3296
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:light_gray_sharestone Expected: 1018 Got: 3297
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:cyan_sharestone Expected: 1019 Got: 3298
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:purple_sharestone Expected: 1020 Got: 3299
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:blue_sharestone Expected: 1021 Got: 3300
-[25Mar2025 15:59:32.223] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:brown_sharestone Expected: 1022 Got: 3301
-[25Mar2025 15:59:32.224] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:green_sharestone Expected: 1023 Got: 3302
-[25Mar2025 15:59:32.224] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:red_sharestone Expected: 1024 Got: 3303
-[25Mar2025 15:59:32.224] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: waystones:black_sharestone Expected: 1025 Got: 3304
-[25Mar2025 15:59:32.226] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:waystone Expected: 1255 Got: 4452
-[25Mar2025 15:59:32.226] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:mossy_waystone Expected: 1256 Got: 4453
-[25Mar2025 15:59:32.226] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:sandy_waystone Expected: 1257 Got: 4454
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:sharestone Expected: 1258 Got: 4455
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:warp_plate Expected: 1259 Got: 4456
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:portstone Expected: 1260 Got: 4457
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:white_sharestone Expected: 1261 Got: 4458
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:orange_sharestone Expected: 1262 Got: 4459
-[25Mar2025 15:59:32.227] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:magenta_sharestone Expected: 1263 Got: 4460
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:light_blue_sharestone Expected: 1264 Got: 4461
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:yellow_sharestone Expected: 1265 Got: 4462
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:lime_sharestone Expected: 1266 Got: 4463
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:pink_sharestone Expected: 1267 Got: 4464
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:gray_sharestone Expected: 1268 Got: 4465
-[25Mar2025 15:59:32.228] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:light_gray_sharestone Expected: 1269 Got: 4466
-[25Mar2025 15:59:32.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:cyan_sharestone Expected: 1270 Got: 4467
-[25Mar2025 15:59:32.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:purple_sharestone Expected: 1271 Got: 4468
-[25Mar2025 15:59:32.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:blue_sharestone Expected: 1272 Got: 4469
-[25Mar2025 15:59:32.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:brown_sharestone Expected: 1273 Got: 4470
-[25Mar2025 15:59:32.229] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:green_sharestone Expected: 1274 Got: 4471
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:red_sharestone Expected: 1275 Got: 4472
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:black_sharestone Expected: 1276 Got: 4473
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:return_scroll Expected: 1277 Got: 4474
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:bound_scroll Expected: 1278 Got: 4475
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:warp_scroll Expected: 1279 Got: 4476
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:warp_stone Expected: 1280 Got: 4477
-[25Mar2025 15:59:32.230] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:warp_dust Expected: 1281 Got: 4478
-[25Mar2025 15:59:32.231] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:attuned_shard Expected: 1282 Got: 4479
-[25Mar2025 15:59:32.231] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: waystones:crumbling_attuned_shard Expected: 1283 Got: 4480
-[25Mar2025 15:59:35.720] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
-[25Mar2025 15:59:35.721] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
-[25Mar2025 15:59:35.839] [main/INFO] [com.simibubi.create.Create/]: Created 270 recipes which will be injected into the game
-[25Mar2025 15:59:35.852] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
-[25Mar2025 15:59:37.154] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[25Mar2025 15:59:37.253] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:mantis_shrimp_targets as it is missing following references: naturalist:bass (from Compat_AlexsMobs-Naturalist.jar)
-[25Mar2025 15:59:38.701] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:teddy_bear
+[25Mar2025 16:26:11.707] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing/unknown registrie(s).
+
+There are 1 missing registries in this save.
+If you continue the missing registries will get removed.
+This may cause issues, it is advised that you create a world backup before continuing.
+
+
+[25Mar2025 16:26:11.707] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing Registries:
+tombstone:perks
+
+[25Mar2025 16:26:11.772] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:block
+	tombstone:abandoned_grave: 2966
+	tombstone:blue_marble: 2969
+	tombstone:blue_marble_slab: 2974
+	tombstone:blue_marble_stairs: 2979
+	tombstone:blue_marble_wall: 2984
+	tombstone:carmin_marble: 2971
+	tombstone:carmin_marble_slab: 2976
+	tombstone:carmin_marble_stairs: 2981
+	tombstone:carmin_marble_wall: 2986
+	tombstone:dark_marble: 2967
+	tombstone:dark_marble_slab: 2972
+	tombstone:dark_marble_stairs: 2977
+	tombstone:dark_marble_wall: 2982
+	tombstone:decorative_grave_cross: 2959
+	tombstone:decorative_grave_normal: 2957
+	tombstone:decorative_grave_original: 2965
+	tombstone:decorative_grave_simple: 2955
+	tombstone:decorative_subaraki_grave: 2963
+	tombstone:decorative_tombstone: 2961
+	tombstone:grave_cross: 2958
+	tombstone:grave_normal: 2956
+	tombstone:grave_original: 2964
+	tombstone:grave_simple: 2954
+	tombstone:green_marble: 2970
+	tombstone:green_marble_slab: 2975
+	tombstone:green_marble_stairs: 2980
+	tombstone:green_marble_wall: 2985
+	tombstone:subaraki_grave: 2962
+	tombstone:tombstone: 2960
+	tombstone:white_marble: 2968
+	tombstone:white_marble_slab: 2973
+	tombstone:white_marble_stairs: 2978
+	tombstone:white_marble_wall: 2983
+
+[25Mar2025 16:26:11.775] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:enchantment
+	tombstone:blessing: 100
+	tombstone:curse_of_bones: 99
+	tombstone:decrepitude: 105
+	tombstone:frostbite: 101
+	tombstone:incurable_wounds: 104
+	tombstone:magic_siphon: 97
+	tombstone:plague_bringer: 98
+	tombstone:ruthless_strike: 107
+	tombstone:sanctified: 106
+	tombstone:soulbound: 96
+	tombstone:spectral_bite: 102
+	tombstone:spectral_conjurer: 103
+
+[25Mar2025 16:26:11.776] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:entity_type
+	tombstone:cloud: 438
+	tombstone:grave_guardian: 437
+	tombstone:spectral_bite: 439
+	tombstone:spectral_wolf: 440
+
+[25Mar2025 16:26:11.777] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:item
+	tombstone:advancement_0: 4110
+	tombstone:advancement_1: 4111
+	tombstone:advancement_10: 4120
+	tombstone:advancement_11: 4121
+	tombstone:advancement_12: 4122
+	tombstone:advancement_13: 4123
+	tombstone:advancement_14: 4124
+	tombstone:advancement_15: 4125
+	tombstone:advancement_2: 4112
+	tombstone:advancement_3: 4113
+	tombstone:advancement_4: 4114
+	tombstone:advancement_5: 4115
+	tombstone:advancement_6: 4116
+	tombstone:advancement_7: 4117
+	tombstone:advancement_8: 4118
+	tombstone:advancement_9: 4119
+	tombstone:ankh_of_prayer: 4057
+	tombstone:bag_of_seeds: 4088
+	tombstone:blue_marble: 4037
+	tombstone:blue_marble_slab: 4042
+	tombstone:blue_marble_stairs: 4047
+	tombstone:blue_marble_wall: 4052
+	tombstone:bone_needle: 4062
+	tombstone:book_of_disenchantment: 4074
+	tombstone:book_of_magic_impregnation: 4078
+	tombstone:book_of_oblivion: 4080
+	tombstone:book_of_recycling: 4075
+	tombstone:book_of_repairing: 4076
+	tombstone:book_of_scribe: 4077
+	tombstone:book_of_soulbound: 4079
+	tombstone:carmin_marble: 4039
+	tombstone:carmin_marble_slab: 4044
+	tombstone:carmin_marble_stairs: 4049
+	tombstone:carmin_marble_wall: 4054
+	tombstone:christmas_gift: 4089
+	tombstone:christmas_hat: 4092
+	tombstone:dark_marble: 4035
+	tombstone:dark_marble_slab: 4040
+	tombstone:dark_marble_stairs: 4045
+	tombstone:dark_marble_wall: 4050
+	tombstone:decorative_grave_cross: 4031
+	tombstone:decorative_grave_normal: 4030
+	tombstone:decorative_grave_original: 4034
+	tombstone:decorative_grave_simple: 4029
+	tombstone:decorative_subaraki_grave: 4033
+	tombstone:decorative_tombstone: 4032
+	tombstone:dust_of_frost: 4073
+	tombstone:dust_of_vanishing: 4072
+	tombstone:easter_egg: 4085
+	tombstone:easter_egg_food: 4086
+	tombstone:essence_of_undeath: 4060
+	tombstone:fishing_rod_of_misadventure: 4058
+	tombstone:gemstone_of_familiar: 4096
+	tombstone:gemstone_of_guardian: 4099
+	tombstone:gemstone_of_merchant: 4097
+	tombstone:gemstone_of_prayer: 4098
+	tombstone:gift: 4087
+	tombstone:grave_dust: 4059
+	tombstone:grave_key: 4055
+	tombstone:grave_plate: 4056
+	tombstone:green_marble: 4038
+	tombstone:green_marble_slab: 4043
+	tombstone:green_marble_stairs: 4048
+	tombstone:green_marble_wall: 4053
+	tombstone:impregnated_diamond: 4061
+	tombstone:lollipop: 4084
+	tombstone:lost_tablet: 4070
+	tombstone:magic_scroll: 4095
+	tombstone:rabbit_mask: 4093
+	tombstone:receptacle_of_familiar: 4082
+	tombstone:receptacle_of_soul: 4083
+	tombstone:scroll_of_aquatic_life: 4108
+	tombstone:scroll_of_feather_fall: 4102
+	tombstone:scroll_of_frost_resistance: 4107
+	tombstone:scroll_of_knowledge: 4071
+	tombstone:scroll_of_lightning_resistance: 4106
+	tombstone:scroll_of_mercy: 4109
+	tombstone:scroll_of_preservation: 4100
+	tombstone:scroll_of_purification: 4103
+	tombstone:scroll_of_reach: 4105
+	tombstone:scroll_of_true_sight: 4104
+	tombstone:scroll_of_unstable_intangibility: 4101
+	tombstone:seeker_rod: 4091
+	tombstone:smoke_ball: 4094
+	tombstone:strange_scroll: 4063
+	tombstone:strange_tablet: 4064
+	tombstone:tablet_of_assistance: 4067
+	tombstone:tablet_of_cupidity: 4068
+	tombstone:tablet_of_guard: 4069
+	tombstone:tablet_of_home: 4066
+	tombstone:tablet_of_recall: 4065
+	tombstone:villager_gift: 4090
+	tombstone:voodoo_poppet: 4081
+	tombstone:white_marble: 4036
+	tombstone:white_marble_slab: 4041
+	tombstone:white_marble_stairs: 4046
+	tombstone:white_marble_wall: 4051
+
+[25Mar2025 16:26:11.780] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:mob_effect
+	tombstone:aquatic_life: 133
+	tombstone:bait: 132
+	tombstone:bone_shield: 131
+	tombstone:decrepitude: 141
+	tombstone:discretion: 137
+	tombstone:diversion: 124
+	tombstone:earthly_garden: 136
+	tombstone:feather_fall: 125
+	tombstone:frost_resistance: 130
+	tombstone:frostbite: 134
+	tombstone:ghostly_shape: 121
+	tombstone:incurable: 140
+	tombstone:lightning_resistance: 129
+	tombstone:mercy: 138
+	tombstone:prayer: 135
+	tombstone:preservation: 122
+	tombstone:purification: 126
+	tombstone:reach: 128
+	tombstone:restoration: 139
+	tombstone:true_sight: 127
+	tombstone:unstable_intangibility: 123
+
+[25Mar2025 16:26:11.781] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:painting_variant
+	tombstone:crow: 32
+
+[25Mar2025 16:26:11.782] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:potion
+	tombstone:bait: 76
+	tombstone:darkness: 78
+	tombstone:discretion: 79
+	tombstone:earthly_garden: 75
+	tombstone:frostbite: 77
+	tombstone:restoration: 80
+	tombstone:spectral: 74
+
+[25Mar2025 16:26:11.782] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: Unidentified mapping from registry minecraft:sound_event
+	tombstone:ghost01: 2428
+	tombstone:ghost02: 2429
+	tombstone:ghost03: 2430
+	tombstone:magic_use01: 2427
+
+[25Mar2025 16:26:11.784] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Forge Mod Loader detected missing registry entries.
+
+There are 179 missing entries in this save.
+If you continue the missing entries will get removed.
+A world backup will be automatically created in your saves directory.
+
+
+[25Mar2025 16:26:11.784] [main/WARN] [net.minecraftforge.registries.GameData/REGISTRIES]: Missing minecraft:sound_event:
+    tombstone:ghost01
+    tombstone:ghost02
+    tombstone:ghost03
+    tombstone:magic_use01
+
+Missing minecraft:item:
+    tombstone:advancement_0
+    tombstone:advancement_1
+    tombstone:advancement_10
+    tombstone:advancement_11
+    tombstone:advancement_12
+    tombstone:advancement_13
+    tombstone:advancement_14
+    tombstone:advancement_15
+    tombstone:advancement_2
+    tombstone:advancement_3
+    tombstone:advancement_4
+    tombstone:advancement_5
+    tombstone:advancement_6
+    tombstone:advancement_7
+    tombstone:advancement_8
+    tombstone:advancement_9
+    tombstone:ankh_of_prayer
+    tombstone:bag_of_seeds
+    tombstone:blue_marble
+    tombstone:blue_marble_slab
+    tombstone:blue_marble_stairs
+    tombstone:blue_marble_wall
+    tombstone:bone_needle
+    tombstone:book_of_disenchantment
+    tombstone:book_of_magic_impregnation
+    tombstone:book_of_oblivion
+    tombstone:book_of_recycling
+    tombstone:book_of_repairing
+    tombstone:book_of_scribe
+    tombstone:book_of_soulbound
+    tombstone:carmin_marble
+    tombstone:carmin_marble_slab
+    tombstone:carmin_marble_stairs
+    tombstone:carmin_marble_wall
+    tombstone:christmas_gift
+    tombstone:christmas_hat
+    tombstone:dark_marble
+    tombstone:dark_marble_slab
+    tombstone:dark_marble_stairs
+    tombstone:dark_marble_wall
+    tombstone:decorative_grave_cross
+    tombstone:decorative_grave_normal
+    tombstone:decorative_grave_original
+    tombstone:decorative_grave_simple
+    tombstone:decorative_subaraki_grave
+    tombstone:decorative_tombstone
+    tombstone:dust_of_frost
+    tombstone:dust_of_vanishing
+    tombstone:easter_egg
+    tombstone:easter_egg_food
+    tombstone:essence_of_undeath
+    tombstone:fishing_rod_of_misadventure
+    tombstone:gemstone_of_familiar
+    tombstone:gemstone_of_guardian
+    tombstone:gemstone_of_merchant
+    tombstone:gemstone_of_prayer
+    tombstone:gift
+    tombstone:grave_dust
+    tombstone:grave_key
+    tombstone:grave_plate
+    tombstone:green_marble
+    tombstone:green_marble_slab
+    tombstone:green_marble_stairs
+    tombstone:green_marble_wall
+    tombstone:impregnated_diamond
+    tombstone:lollipop
+    tombstone:lost_tablet
+    tombstone:magic_scroll
+    tombstone:rabbit_mask
+    tombstone:receptacle_of_familiar
+    tombstone:receptacle_of_soul
+    tombstone:scroll_of_aquatic_life
+    tombstone:scroll_of_feather_fall
+    tombstone:scroll_of_frost_resistance
+    tombstone:scroll_of_knowledge
+    tombstone:scroll_of_lightning_resistance
+    tombstone:scroll_of_mercy
+    tombstone:scroll_of_preservation
+    tombstone:scroll_of_purification
+    tombstone:scroll_of_reach
+    tombstone:scroll_of_true_sight
+    tombstone:scroll_of_unstable_intangibility
+    tombstone:seeker_rod
+    tombstone:smoke_ball
+    tombstone:strange_scroll
+    tombstone:strange_tablet
+    tombstone:tablet_of_assistance
+    tombstone:tablet_of_cupidity
+    tombstone:tablet_of_guard
+    tombstone:tablet_of_home
+    tombstone:tablet_of_recall
+    tombstone:villager_gift
+    tombstone:voodoo_poppet
+    tombstone:white_marble
+    tombstone:white_marble_slab
+    tombstone:white_marble_stairs
+    tombstone:white_marble_wall
+
+Missing minecraft:potion:
+    tombstone:bait
+    tombstone:darkness
+    tombstone:discretion
+    tombstone:earthly_garden
+    tombstone:frostbite
+    tombstone:restoration
+    tombstone:spectral
+
+Missing minecraft:painting_variant:
+    tombstone:crow
+
+Missing minecraft:block:
+    tombstone:abandoned_grave
+    tombstone:blue_marble
+    tombstone:blue_marble_slab
+    tombstone:blue_marble_stairs
+    tombstone:blue_marble_wall
+    tombstone:carmin_marble
+    tombstone:carmin_marble_slab
+    tombstone:carmin_marble_stairs
+    tombstone:carmin_marble_wall
+    tombstone:dark_marble
+    tombstone:dark_marble_slab
+    tombstone:dark_marble_stairs
+    tombstone:dark_marble_wall
+    tombstone:decorative_grave_cross
+    tombstone:decorative_grave_normal
+    tombstone:decorative_grave_original
+    tombstone:decorative_grave_simple
+    tombstone:decorative_subaraki_grave
+    tombstone:decorative_tombstone
+    tombstone:grave_cross
+    tombstone:grave_normal
+    tombstone:grave_original
+    tombstone:grave_simple
+    tombstone:green_marble
+    tombstone:green_marble_slab
+    tombstone:green_marble_stairs
+    tombstone:green_marble_wall
+    tombstone:subaraki_grave
+    tombstone:tombstone
+    tombstone:white_marble
+    tombstone:white_marble_slab
+    tombstone:white_marble_stairs
+    tombstone:white_marble_wall
+
+Missing minecraft:mob_effect:
+    tombstone:aquatic_life
+    tombstone:bait
+    tombstone:bone_shield
+    tombstone:decrepitude
+    tombstone:discretion
+    tombstone:diversion
+    tombstone:earthly_garden
+    tombstone:feather_fall
+    tombstone:frost_resistance
+    tombstone:frostbite
+    tombstone:ghostly_shape
+    tombstone:incurable
+    tombstone:lightning_resistance
+    tombstone:mercy
+    tombstone:prayer
+    tombstone:preservation
+    tombstone:purification
+    tombstone:reach
+    tombstone:restoration
+    tombstone:true_sight
+    tombstone:unstable_intangibility
+
+Missing minecraft:enchantment:
+    tombstone:blessing
+    tombstone:curse_of_bones
+    tombstone:decrepitude
+    tombstone:frostbite
+    tombstone:incurable_wounds
+    tombstone:magic_siphon
+    tombstone:plague_bringer
+    tombstone:ruthless_strike
+    tombstone:sanctified
+    tombstone:soulbound
+    tombstone:spectral_bite
+    tombstone:spectral_conjurer
+
+Missing minecraft:entity_type:
+    tombstone:cloud
+    tombstone:grave_guardian
+    tombstone:spectral_bite
+    tombstone:spectral_wolf
+
+
+[25Mar2025 16:26:11.788] [main/ERROR] [net.minecraftforge.registries.GameData/REGISTRIES]: There are unidentified mappings in this world - we are going to attempt to process anyway
+[25Mar2025 16:26:11.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: torchmaster:megatorch Expected: 1099 Got: 3319
+[25Mar2025 16:26:11.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: torchmaster:dreadlamp Expected: 1100 Got: 3320
+[25Mar2025 16:26:11.792] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: torchmaster:feral_flare_lantern Expected: 1101 Got: 3321
+[25Mar2025 16:26:11.793] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: torchmaster:invisible_light Expected: 1102 Got: 3322
+[25Mar2025 16:26:11.794] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: torchmaster:megatorch Expected: 1667 Got: 4501
+[25Mar2025 16:26:11.795] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: torchmaster:dreadlamp Expected: 1668 Got: 4502
+[25Mar2025 16:26:11.795] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: torchmaster:feral_flare_lantern Expected: 1669 Got: 4503
+[25Mar2025 16:26:11.795] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: torchmaster:frozen_pearl Expected: 1670 Got: 4504
+[25Mar2025 16:26:14.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/assets/.mcassetsroot' uses unexpected schema
+[25Mar2025 16:26:14.989] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23221!/data/.mcassetsroot' uses unexpected schema
+[25Mar2025 16:26:15.122] [main/INFO] [com.simibubi.create.Create/]: Created 270 recipes which will be injected into the game
+[25Mar2025 16:26:15.135] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[25Mar2025 16:26:15.205] [main/WARN] [net.minecraft.server.MinecraftServer/]: Missing data pack mod:tombstone
+[25Mar2025 16:26:16.323] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[25Mar2025 16:26:16.387] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:mantis_shrimp_targets as it is missing following references: naturalist:bass (from Compat_AlexsMobs-Naturalist.jar)
+[25Mar2025 16:26:17.508] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:teddy_bear
 com.google.gson.JsonSyntaxException: Unknown item 'naturalist:teddy_bear'
 	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
 	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23226!/:?]
@@ -321,8 +616,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'naturalist:teddy_bear'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[25Mar2025 15:59:38.753] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[25Mar2025 15:59:38.754] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[25Mar2025 16:26:17.553] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[25Mar2025 16:26:17.554] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -338,70 +633,87 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23221!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[25Mar2025 15:59:38.926] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3896 advancements
-[25Mar2025 15:59:38.974] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[25Mar2025 15:59:41.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[25Mar2025 15:59:41.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[25Mar2025 15:59:41.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[25Mar2025 15:59:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[25Mar2025 15:59:41.848] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[25Mar2025 15:59:41.874] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[25Mar2025 15:59:41.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[25Mar2025 15:59:41.954] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[25Mar2025 15:59:41.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[25Mar2025 15:59:41.955] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[25Mar2025 15:59:41.970] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[25Mar2025 15:59:41.972] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[25Mar2025 15:59:41.985] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/toms_storage-server.toml is not correct. Correcting
-[25Mar2025 15:59:41.986] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventoryConnectorRange was corrected from null to its default, 16. 
-[25Mar2025 15:59:41.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key onlyTrimsConnect was corrected from null to its default, false. 
-[25Mar2025 15:59:41.987] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invCableConnectorMaxScanSize was corrected from null to its default, 2048. 
-[25Mar2025 15:59:41.988] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessReach was corrected from null to its default, 16. 
-[25Mar2025 15:59:41.989] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key advWirelessRange was corrected from null to its default, 64. 
-[25Mar2025 15:59:41.990] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessTermBeaconLvl was corrected from null to its default, 1. 
-[25Mar2025 15:59:41.991] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key wirelessTermBeaconLvlDim was corrected from null to its default, 4. 
-[25Mar2025 15:59:41.992] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invLinkBeaconLvl was corrected from null to its default, 1. 
-[25Mar2025 15:59:41.993] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invLinkBeaconLvlDim was corrected from null to its default, 2. 
-[25Mar2025 15:59:41.994] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key invDupScanSize was corrected from null to its default, 100. 
-[25Mar2025 15:59:41.995] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[25Mar2025 15:59:41.995] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[25Mar2025 15:59:41.995] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[25Mar2025 15:59:41.996] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[25Mar2025 15:59:42.116] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[25Mar2025 15:59:46.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[25Mar2025 15:59:51.670] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.672] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.672] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.673] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.674] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.676] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.678] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.680] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.682] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.684] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:51.908] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[25Mar2025 15:59:52.408] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
-[25Mar2025 15:59:52.875] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6468 ms
-[25Mar2025 15:59:52.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (10.909s)! For help, type "help"
-[25Mar2025 15:59:52.931] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[25Mar2025 15:59:52.943] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[25Mar2025 15:59:52.954] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
-[25Mar2025 16:01:27.259] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[25Mar2025 16:01:27.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JairoJ13_[/127.95.0.238:46297] logged in with entity id 723 at (765.8857461549305, 98.0, -50.99071196635018)
-[25Mar2025 16:01:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ joined the game
-[25Mar2025 16:01:27.574] [Server thread/INFO] [Jade/]: Syncing config to JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6)
-[25Mar2025 16:01:30.276] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JairoJ13_ (18)
-[25Mar2025 16:01:30.278] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JairoJ13_
-[25Mar2025 16:07:50.773] [Server thread/WARN] [tombstone/]: The death event of the player JairoJ13_ was canceled by another mod
-[25Mar2025 16:07:50.775] [Server thread/INFO] [tombstone/]: The player JairoJ13_ has successfully been saved
-[25Mar2025 16:07:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ drowned
-[25Mar2025 16:07:55.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Your First Grave]
-[25Mar2025 16:07:55.781] [Server thread/INFO] [tombstone/]: The player JairoJ13_ has successfully been saved
-[25Mar2025 16:08:01.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-55}
-[25Mar2025 16:08:02.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-55}
-[25Mar2025 16:08:08.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JairoJ13_ was kicked for floating too long!
-[25Mar2025 16:08:08.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JairoJ13_ lost connection: Flying is not enabled on this server
-[25Mar2025 16:08:08.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ left the game
-[25Mar2025 16:08:08.220] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JairoJ13_
-[25Mar2025 16:08:08.266] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Mar2025 16:26:17.765] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3737 advancements
+[25Mar2025 16:26:17.793] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[25Mar2025 16:26:20.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[25Mar2025 16:26:20.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[25Mar2025 16:26:20.540] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[25Mar2025 16:26:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[25Mar2025 16:26:20.690] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[25Mar2025 16:26:20.714] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[25Mar2025 16:26:20.831] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[25Mar2025 16:26:20.832] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[25Mar2025 16:26:20.834] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[25Mar2025 16:26:20.836] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[25Mar2025 16:26:20.866] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[25Mar2025 16:26:20.870] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[25Mar2025 16:26:20.894] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[25Mar2025 16:26:20.895] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[25Mar2025 16:26:20.898] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
+[25Mar2025 16:26:21.052] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[25Mar2025 16:26:22.489] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 16:26:22.490] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 16:26:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[25Mar2025 16:26:26.485] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [40, 4], discarding
+[25Mar2025 16:26:26.487] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [41, 4], discarding
+[25Mar2025 16:26:26.489] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [42, 4], discarding
+[25Mar2025 16:26:26.516] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [40, 5], discarding
+[25Mar2025 16:26:26.519] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: tombstone:abandoned_grave_land
+[25Mar2025 16:26:26.520] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [41, 5], discarding
+[25Mar2025 16:26:26.522] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [42, 5], discarding
+[25Mar2025 16:26:26.639] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [40, 6], discarding
+[25Mar2025 16:26:26.641] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [41, 6], discarding
+[25Mar2025 16:26:26.643] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [42, 6], discarding
+[25Mar2025 16:26:27.290] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [44, -11], discarding
+[25Mar2025 16:26:27.291] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [45, -11], discarding
+[25Mar2025 16:26:27.293] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [46, -11], discarding
+[25Mar2025 16:26:27.310] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [44, -10], discarding
+[25Mar2025 16:26:27.312] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Unknown structure start: tombstone:abandoned_grave_land
+[25Mar2025 16:26:27.312] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [45, -10], discarding
+[25Mar2025 16:26:27.313] [Server thread/WARN] [net.minecraft.world.level.chunk.storage.ChunkSerializer/]: Found reference to unknown structure 'tombstone:abandoned_grave_land' in chunk [46, -10], discarding
+[25Mar2025 16:26:28.729] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.732] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.733] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.734] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.735] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.735] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.737] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.739] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[25Mar2025 16:26:28.974] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[25Mar2025 16:26:28.975] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[25Mar2025 16:26:29.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[25Mar2025 16:26:29.537] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 16:26:29.582] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[25Mar2025 16:26:29.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
+[25Mar2025 16:26:29.777] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[25Mar2025 16:26:29.849] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id tombstone:tile_grave
+[25Mar2025 16:26:30.137] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
+[25Mar2025 16:26:30.423] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5287 ms
+[25Mar2025 16:26:30.424] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.565s)! For help, type "help"
+[25Mar2025 16:26:30.475] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[25Mar2025 16:26:30.483] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[25Mar2025 16:26:30.492] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[25Mar2025 16:26:47.097] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[25Mar2025 16:26:47.122] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/easter' in progress file ./world/advancements/fb106c7c-c344-390b-95a0-64a4fde516b6.json - it doesn't exist anymore?
+[25Mar2025 16:26:47.123] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/root' in progress file ./world/advancements/fb106c7c-c344-390b-95a0-64a4fde516b6.json - it doesn't exist anymore?
+[25Mar2025 16:26:47.123] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:adventure/first_grave' in progress file ./world/advancements/fb106c7c-c344-390b-95a0-64a4fde516b6.json - it doesn't exist anymore?
+[25Mar2025 16:26:47.123] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'tombstone:recipes/from_grave_key' in progress file ./world/advancements/fb106c7c-c344-390b-95a0-64a4fde516b6.json - it doesn't exist anymore?
+[25Mar2025 16:26:47.156] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:enchanted_grave_key removed now.
+[25Mar2025 16:26:47.157] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: tombstone:enchanted_grave_key removed now.
+[25Mar2025 16:26:47.160] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JairoJ13_[/127.95.0.238:59611] logged in with entity id 177 at (775.1827394937311, 83.5283336207374, -47.2297192853153)
+[25Mar2025 16:26:47.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ joined the game
+[25Mar2025 16:26:47.417] [Server thread/INFO] [Jade/]: Syncing config to JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6)
+[25Mar2025 16:26:49.365] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JairoJ13_ (18)
+[25Mar2025 16:26:49.367] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JairoJ13_
+[25Mar2025 16:27:03.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JairoJ13_ was kicked for floating too long!
+[25Mar2025 16:27:03.509] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JairoJ13_ lost connection: Flying is not enabled on this server
+[25Mar2025 16:27:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ left the game
+[25Mar2025 16:27:03.513] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JairoJ13_
+[25Mar2025 16:27:38.758] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JairoJ13_[/127.95.0.238:47653] logged in with entity id 227 at (775.1827394937311, 83.5283336207374, -47.2297192853153)
+[25Mar2025 16:27:38.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ joined the game
+[25Mar2025 16:27:38.811] [Server thread/INFO] [Jade/]: Syncing config to JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6)
+[25Mar2025 16:27:39.556] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JairoJ13_ (18)
+[25Mar2025 16:27:39.557] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JairoJ13_
+[25Mar2025 16:28:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ blew up
+[25Mar2025 16:33:45.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-48}
+[25Mar2025 16:33:46.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=774, y=99, z=-49}
