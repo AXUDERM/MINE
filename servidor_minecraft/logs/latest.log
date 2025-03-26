@@ -259,3 +259,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Mar2025 02:49:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
 [26Mar2025 02:56:54.485] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
 [26Mar2025 02:56:54.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Text Display]
+[26Mar2025 03:02:54.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Nuclear Explosion]
+[26Mar2025 03:03:40.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]
+[26Mar2025 03:04:21.529] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_ADMIN131[/127.95.0.238:60977] logged in with entity id 11950 at (238.0166239017887, 58.23073071208405, -481.2189577169015)
+[26Mar2025 03:04:21.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 joined the game
+[26Mar2025 03:04:21.550] [Server thread/INFO] [Jade/]: Syncing config to EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c)
+[26Mar2025 03:04:23.242] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EL_ADMIN131 (18)
+[26Mar2025 03:04:23.243] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EL_ADMIN131
+[26Mar2025 03:04:33.665] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[26Mar2025 03:04:34.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[26Mar2025 03:04:34.667] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c) successfully connected to voice chat
+[26Mar2025 03:05:10.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
+[26Mar2025 03:06:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> 244 55 -478
+[26Mar2025 03:06:52.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Successfully filled 550 block(s)]
+[26Mar2025 03:08:18.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Successfully filled 550 block(s)]
+[26Mar2025 03:09:46.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> voy a reiniciar no escucho nada
+[26Mar2025 03:09:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> yo t escucho
