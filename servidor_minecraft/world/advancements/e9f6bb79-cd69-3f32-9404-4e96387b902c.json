@@ -254,6 +254,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-03-26 03:44:46 +0000",
       "minecraft:beach": "2025-03-25 23:21:51 +0000",
       "minecraft:river": "2025-03-25 23:24:29 +0000",
       "minecraft:stony_shore": "2025-03-25 23:24:26 +0000",
@@ -436,6 +437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-26 03:43:23 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/brown_lens": {
     "criteria": {
       "has_glass_pane": "2025-03-26 03:22:23 +0000"
@@ -495,6 +502,12 @@
       "has_glass_pane": "2025-03-26 03:22:23 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-26 03:43:23 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/misc/purple_lens": {
     "criteria": {

@@ -391,6 +391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-03-26 03:41:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_item": "2025-03-26 03:30:57 +0000"
@@ -481,6 +487,12 @@
     },
     "done": true
   },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-26 03:40:22 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/sponge": {
     "criteria": {
       "has_wet_sponge": "2025-03-26 03:09:28 +0000"
@@ -526,6 +538,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-03-26 03:08:18 +0000"
+    },
+    "done": true
+  },
+  "create:cardboard_armor": {
+    "criteria": {
+      "0": "2025-03-26 03:39:27 +0000"
     },
     "done": true
   },
