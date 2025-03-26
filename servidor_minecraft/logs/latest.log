@@ -256,3 +256,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [26Mar2025 02:33:54.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Nuclear Explosion]
 [26Mar2025 02:34:17.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to 0.500000, 264.000000, 0.500000]
 [26Mar2025 02:34:25.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Nuclear Bomb]
+[26Mar2025 02:49:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[26Mar2025 02:56:54.485] [Server thread/ERROR] [net.minecraft.world.entity.Display/]: Display entityNot a string
+[26Mar2025 02:56:54.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Text Display]
