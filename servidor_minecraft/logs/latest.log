@@ -264,3 +264,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Mar2025 03:12:41.926] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
 [27Mar2025 03:27:32.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
 [27Mar2025 03:28:08.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[27Mar2025 03:31:29.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Successfully Modified _RUD3US_'s stamina to 25]
+[27Mar2025 03:32:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Successfully Modified _RUD3US_'s stamina to 25]
+[27Mar2025 03:38:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[27Mar2025 03:40:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ was slain by Zombie
