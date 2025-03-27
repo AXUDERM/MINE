@@ -8860,3 +8860,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Mar2025 00:59:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
 [27Mar2025 00:59:05.710] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of _RUD3US_
 [27Mar2025 00:59:05.711] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
+[27Mar2025 01:01:29.112] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 01:01:29.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Mar2025 01:06:29.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Mar2025 01:06:29.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
