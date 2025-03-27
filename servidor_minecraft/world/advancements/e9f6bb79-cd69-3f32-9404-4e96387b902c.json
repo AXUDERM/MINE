@@ -1593,5 +1593,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-03-27 04:31:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
