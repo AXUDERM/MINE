@@ -1593,6 +1593,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-03-27 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-03-27 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-03-27 04:40:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-03-27 04:40:42 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
       "deep_sea_sushi_roll": "2025-03-27 04:31:33 +0000"
