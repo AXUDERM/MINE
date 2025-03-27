@@ -379,3 +379,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Mar2025 00:41:47.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
 [27Mar2025 00:41:48.155] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
 [27Mar2025 00:41:48.158] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[27Mar2025 00:51:20.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Lightning Bolt]
+[27Mar2025 00:51:39.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Lightning Bolt]
+[27Mar2025 00:51:53.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]
+[27Mar2025 00:52:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Lightning Bolt]
+[27Mar2025 00:59:05.708] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ lost connection: Disconnected
+[27Mar2025 00:59:05.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
+[27Mar2025 00:59:05.711] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
