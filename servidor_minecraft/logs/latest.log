@@ -268,3 +268,22 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [27Mar2025 03:32:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Successfully Modified _RUD3US_'s stamina to 25]
 [27Mar2025 03:38:56.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
 [27Mar2025 03:40:15.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ was slain by Zombie
+[27Mar2025 03:40:36.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[27Mar2025 03:41:38.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Health Boost to _RUD3US_]
+[27Mar2025 03:41:44.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[27Mar2025 03:41:54.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[27Mar2025 03:42:06.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Regeneration to _RUD3US_]
+[27Mar2025 03:42:13.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[27Mar2025 03:42:21.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ has made the advancement [Monster Hunter]
+[27Mar2025 03:42:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Instant Health to _RUD3US_]
+[27Mar2025 03:46:53.604] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_ADMIN131[/127.95.0.238:36195] logged in with entity id 15534 at (-122.76466387054614, 104.36288778087422, -219.31837472830458)
+[27Mar2025 03:46:53.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 joined the game
+[27Mar2025 03:46:53.667] [Server thread/INFO] [Jade/]: Syncing config to EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c)
+[27Mar2025 03:46:55.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EL_ADMIN131 (18)
+[27Mar2025 03:46:55.262] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EL_ADMIN131
+[27Mar2025 03:47:04.449] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[27Mar2025 03:47:05.450] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[27Mar2025 03:47:05.451] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c) successfully connected to voice chat
+[27Mar2025 03:47:46.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
+[27Mar2025 03:48:06.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[27Mar2025 03:49:11.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
