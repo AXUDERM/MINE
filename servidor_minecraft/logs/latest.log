@@ -267,3 +267,18 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 02:47:06.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
 [28Mar2025 02:47:07.255] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
 [28Mar2025 02:47:07.256] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[28Mar2025 03:03:07.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[28Mar2025 03:03:08.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:03:55.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [Monster Hunter]
+[28Mar2025 03:03:55.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [Acquire Hardware]
+[28Mar2025 03:04:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:04:32.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[28Mar2025 03:06:36.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:06:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:07:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:08:19.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:08:54.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Regeneration to EL_ADMIN131]
+[28Mar2025 03:09:23.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Glowing to EL_ADMIN131]
+[28Mar2025 03:09:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Glowing to _RUD3US_]
+[28Mar2025 03:12:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:13:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]

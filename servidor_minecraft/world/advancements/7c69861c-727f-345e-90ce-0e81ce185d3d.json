@@ -255,8 +255,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-03-26 04:27:41 +0000",
+      "minecraft:river": "2025-03-28 02:57:48 +0000",
       "minecraft:stony_shore": "2025-03-26 21:04:09 +0000",
       "minecraft:cold_ocean": "2025-03-26 20:17:48 +0000",
+      "minecraft:forest": "2025-03-28 02:57:50 +0000",
       "minecraft:meadow": "2025-03-28 02:28:12 +0000",
       "minecraft:plains": "2025-03-26 04:27:27 +0000"
     },
@@ -2032,6 +2034,18 @@
       "has_gunpowder": "2025-03-28 02:28:36 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-03-28 03:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "golden_apple": "2025-03-28 03:04:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
