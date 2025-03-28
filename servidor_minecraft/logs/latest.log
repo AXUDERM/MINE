@@ -372,3 +372,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 03:34:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Removed every effect from EL_ADMIN131]
 [28Mar2025 03:34:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Regeneration to 2 targets]
 [28Mar2025 03:34:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Health Boost to 2 targets]
+[28Mar2025 03:36:13.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Night Vision to 2 targets]
+[28Mar2025 03:37:40.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> 11
+[28Mar2025 03:38:34.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> que contraseña?
+[28Mar2025 03:38:43.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> 901090
+[28Mar2025 03:39:15.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ENTRA
+[28Mar2025 03:40:21.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 03:40:24.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [Ice Bucket Challenge]
+[28Mar2025 03:40:52.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:40:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:40:55.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:40:58.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [We Need to Go Deeper]
+[28Mar2025 03:40:59.085] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2603ms or 52 ticks behind
+[28Mar2025 03:41:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 03:41:11.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:41:15.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:41:35.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:42:05.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ has made the advancement [We Need to Go Deeper]
+[28Mar2025 03:42:05.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
+[28Mar2025 03:42:24.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:42:25.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:42:38.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:42:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:43:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Teleported EL_ADMIN131 to _RUD3US_]
+[28Mar2025 03:43:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:44:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
