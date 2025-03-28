@@ -9285,3 +9285,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 03:24:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
 [28Mar2025 03:24:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
 [28Mar2025 03:24:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:47.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:49.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:51.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:52.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:54.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:56.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:01.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:02.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:05.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:06.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:08.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:09.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:10.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:12.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:16.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:18.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:27.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:31.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:33.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:25:46.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 03:25:46.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 03:25:55.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:27:05.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:27:14.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 fell from a high place
+[28Mar2025 03:27:31.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:27:38.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:28:57.962] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[28Mar2025 03:29:06.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:30:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:30:46.713] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 03:30:46.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 03:31:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:32:25.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_ADMIN131 moved too quickly! 9.54096189747277,3.374999184257973,2.1426112024374504
+[28Mar2025 03:33:55.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Regeneration to 2 targets]
+[28Mar2025 03:34:04.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Removed every effect from EL_ADMIN131]
+[28Mar2025 03:34:18.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Regeneration to 2 targets]
+[28Mar2025 03:34:53.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Health Boost to 2 targets]
