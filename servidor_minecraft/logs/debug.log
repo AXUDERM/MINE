@@ -9632,3 +9632,31 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 02:00:05.650] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of _RUD3US_ to connected: {disabled=false, disconnected=false, uuid=7c69861c-727f-345e-90ce-0e81ce185d3d, name=_RUD3US_, group=null}
 [28Mar2025 02:00:05.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
 [28Mar2025 02:00:05.761] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of _RUD3US_: {disabled=false, disconnected=false, uuid=7c69861c-727f-345e-90ce-0e81ce185d3d, name=_RUD3US_, group=null}
+[28Mar2025 02:00:36.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> mardita sea
+[28Mar2025 02:00:42.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> si
+[28Mar2025 02:00:50.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 02:00:50.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 02:01:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> nada np me escuche
+[28Mar2025 02:01:51.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> nada
+[28Mar2025 02:01:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> no
+[28Mar2025 02:02:08.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> interno
+[28Mar2025 02:02:21.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> con sounclud y copias el link
+[28Mar2025 02:02:36.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> google
+[28Mar2025 02:02:49.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> google bro
+[28Mar2025 02:02:54.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> busca souncloud
+[28Mar2025 02:03:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> y ahi busca la cancion
+[28Mar2025 02:03:11.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> le das clic y copias el link
+[28Mar2025 02:03:21.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> oyeloooooooooooo
+[28Mar2025 02:03:56.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> aja
+[28Mar2025 02:04:00.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya?
+[28Mar2025 02:04:33.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> aja
+[28Mar2025 02:04:34.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> si
+[28Mar2025 02:04:56.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> el color
+[28Mar2025 02:05:14.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ja
+[28Mar2025 02:05:16.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> jajaja
+[28Mar2025 02:05:38.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> sera reiniciar el pc?
+[28Mar2025 02:05:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> q dices?
+[28Mar2025 02:05:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> si
+[28Mar2025 02:05:50.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 02:05:50.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 02:07:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya
