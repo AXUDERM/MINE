@@ -1,189 +1,204 @@
-[27Mar2025 04:22:09.155] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[27Mar2025 04:22:09.160] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[27Mar2025 04:22:11.065] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[27Mar2025 04:22:11.103] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[27Mar2025 04:22:11.104] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23162!/
-[27Mar2025 04:22:11.110] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
-[27Mar2025 04:22:11.112] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[27Mar2025 04:22:11.188] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[27Mar2025 04:22:11.202] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[27Mar2025 04:22:11.648] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 04:22:11.656] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 04:22:11.658] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 04:22:11.659] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[27Mar2025 04:22:12.069] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[27Mar2025 04:22:12.071] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
-[27Mar2025 04:22:12.071] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
-[27Mar2025 04:22:12.072] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
-[27Mar2025 04:22:12.877] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[27Mar2025 04:22:12.893] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[27Mar2025 04:22:14.227] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[27Mar2025 04:22:16.055] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[27Mar2025 04:22:16.153] [main/ERROR] [mixin/]: Mixin config mozombieswave-common.mixins.json does not specify "minVersion" property
-[27Mar2025 04:22:16.156] [main/ERROR] [mixin/]: Mixin config mozombieswave.mixins.json does not specify "minVersion" property
-[27Mar2025 04:22:16.244] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
-[27Mar2025 04:22:16.247] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[27Mar2025 04:22:16.252] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[27Mar2025 04:22:16.443] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-common-refmap.json' for mozombieswave-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 04:22:16.446] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-forge-refmap.json' for mozombieswave.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 04:22:16.449] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 04:22:16.461] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
-[27Mar2025 04:22:18.887] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
-[27Mar2025 04:22:18.888] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
-[27Mar2025 04:22:18.888] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
-[27Mar2025 04:22:18.900] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
-[27Mar2025 04:22:18.900] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
-[27Mar2025 04:22:18.900] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
-[27Mar2025 04:22:18.904] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
-[27Mar2025 04:22:18.904] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
-[27Mar2025 04:22:19.419] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[27Mar2025 04:22:24.590] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[27Mar2025 04:22:24.590] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
-[27Mar2025 04:22:27.976] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[27Mar2025 04:22:27.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[27Mar2025 04:22:27.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[27Mar2025 04:22:27.977] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
-[27Mar2025 04:22:29.412] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[28Mar2025 01:30:03.203] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[28Mar2025 01:30:03.209] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[28Mar2025 01:30:04.564] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[28Mar2025 01:30:04.576] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[28Mar2025 01:30:04.577] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar%23163!/
+[28Mar2025 01:30:04.585] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/SERVER/servidor_minecraft/mods/preview_OptiFine_1.20.1_HD_U_I6_pre6.jar
+[28Mar2025 01:30:04.586] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[28Mar2025 01:30:04.656] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[28Mar2025 01:30:04.666] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[28Mar2025 01:30:05.018] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 01:30:05.020] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 01:30:05.021] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 01:30:05.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[28Mar2025 01:30:05.324] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[28Mar2025 01:30:05.325] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/resourcefullib-forge-1.20.1-2.1.29.jar
+[28Mar2025 01:30:05.326] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: apexcore. Using Mod File: /workspaces/SERVER/servidor_minecraft/mods/apexcore-1.20.1-10.0.0.jar
+[28Mar2025 01:30:05.326] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 12 dependencies adding them to mods collection
+[28Mar2025 01:30:05.866] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[28Mar2025 01:30:05.875] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[28Mar2025 01:30:06.548] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[28Mar2025 01:30:07.817] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[28Mar2025 01:30:07.897] [main/ERROR] [mixin/]: Mixin config mozombieswave-common.mixins.json does not specify "minVersion" property
+[28Mar2025 01:30:07.900] [main/ERROR] [mixin/]: Mixin config mozombieswave.mixins.json does not specify "minVersion" property
+[28Mar2025 01:30:07.961] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [org.tlauncher.MixinConnector]
+[28Mar2025 01:30:07.962] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[28Mar2025 01:30:07.966] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[28Mar2025 01:30:08.136] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-common-refmap.json' for mozombieswave-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 01:30:08.138] [main/WARN] [mixin/]: Reference map 'Mo'ZombiesWave-forge-refmap.json' for mozombieswave.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 01:30:08.140] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 01:30:08.149] [main/WARN] [mixin/]: Reference map 'apexcore.refmap.json' for apexcore.mixins.json could not be read. If this is a development environment you can ignore this message
+[28Mar2025 01:30:09.456] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER
+[28Mar2025 01:30:09.457] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/AbstractClientPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/AbstractClientPlayer for invalid dist DEDICATED_SERVER)
+[28Mar2025 01:30:09.457] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.AbstractClientPlayer was not found tlskincape-mixins.json:MixinAbstractPlayer
+[28Mar2025 01:30:09.461] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER
+[28Mar2025 01:30:09.461] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/TitleScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/TitleScreen for invalid dist DEDICATED_SERVER)
+[28Mar2025 01:30:09.461] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.TitleScreen was not found tlskincape-mixins.json:MixinMainMenu
+[28Mar2025 01:30:09.463] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/model/PlayerModel (java.lang.ClassNotFoundException: net.minecraft.client.model.PlayerModel)
+[28Mar2025 01:30:09.463] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.model.PlayerModel was not found tlskincape-mixins.json:MixinPlayerModel
+[28Mar2025 01:30:09.775] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[28Mar2025 01:30:13.619] [main/WARN] [mixin/]: @Final field f_31427_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[28Mar2025 01:30:13.619] [main/WARN] [mixin/]: @Final field f_31428_:[I in mixins.epicfight.json:MixinWitherBoss should be final
+[28Mar2025 01:30:16.021] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28Mar2025 01:30:16.022] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28Mar2025 01:30:16.023] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28Mar2025 01:30:16.023] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.LivingEntity from class yesman.epicfight.world.capabilities.entitypatch.LivingEntityPatch
+[28Mar2025 01:30:16.923] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[27Mar2025 04:22:30.646] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
-[27Mar2025 04:22:30.653] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: SkinLayer3DCompat
-[27Mar2025 04:22:30.799] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[27Mar2025 04:22:31.494] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
-[27Mar2025 04:22:31.500] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[27Mar2025 04:22:31.501] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[27Mar2025 04:22:31.505] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
-[27Mar2025 04:22:31.506] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
-[27Mar2025 04:22:31.853] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
-[27Mar2025 04:22:31.869] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
-[27Mar2025 04:22:32.452] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
-[27Mar2025 04:22:33.099] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
-[27Mar2025 04:22:34.248] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[27Mar2025 04:22:34.269] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
-[27Mar2025 04:22:34.269] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[27Mar2025 04:22:34.269] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
-[27Mar2025 04:22:34.270] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
-[27Mar2025 04:22:34.270] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[27Mar2025 04:22:34.270] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
-[27Mar2025 04:22:34.310] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
-[27Mar2025 04:22:34.371] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
-[27Mar2025 04:22:34.372] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
-[27Mar2025 04:22:34.372] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
-[27Mar2025 04:22:34.372] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
-[27Mar2025 04:22:35.501] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
-[27Mar2025 04:22:35.719] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@45de2baa has been registered twice for the same name treechop:chop_wood.
-[27Mar2025 04:22:41.953] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[27Mar2025 04:22:41.963] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[27Mar2025 04:22:41.966] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[27Mar2025 04:22:41.970] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[27Mar2025 04:22:42.131] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[27Mar2025 04:22:42.150] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[27Mar2025 04:22:42.170] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.171] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.171] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.172] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.172] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.173] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.173] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.173] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.173] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
-[27Mar2025 04:22:42.704] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
-[27Mar2025 04:22:42.707] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[27Mar2025 04:22:42.708] [Thread-1/INFO] [com.tom.storagemod.StorageMod/]: Tom's Simple Storage config just got changed on the file system!
-[27Mar2025 04:22:42.839] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
-[27Mar2025 04:22:42.910] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[27Mar2025 04:22:42.929] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [alexsmobsnaturalistcompat] Starting version check at https://api.modrinth.com/updates/v0NxYynO/forge_updates.json
-[27Mar2025 04:22:43.056] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
-[27Mar2025 04:22:43.129] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[27Mar2025 04:22:43.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[27Mar2025 04:22:43.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
-[27Mar2025 04:22:43.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
-[27Mar2025 04:22:43.163] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
-[27Mar2025 04:22:43.164] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
-[27Mar2025 04:22:43.167] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[27Mar2025 04:22:43.169] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[27Mar2025 04:22:43.199] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[27Mar2025 04:22:43.204] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[27Mar2025 04:22:43.223] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[27Mar2025 04:22:43.238] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
-[27Mar2025 04:22:43.251] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
-[27Mar2025 04:22:43.275] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
-[27Mar2025 04:22:43.471] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[28Mar2025 01:30:17.711] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: GeckolibCompat
+[28Mar2025 01:30:17.714] [modloading-worker-0/INFO] [epicfight/]: Loaded mod compat: SkinLayer3DCompat
+[28Mar2025 01:30:17.753] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[28Mar2025 01:30:18.011] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Registering server started event...
+[28Mar2025 01:30:18.014] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[28Mar2025 01:30:18.014] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[28Mar2025 01:30:18.015] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Successfully initialized!
+[28Mar2025 01:30:18.016] [modloading-worker-0/INFO] [de.keksuccino.konkrete.Konkrete/]: [KONKRETE] Server-side libs ready to use!
+[28Mar2025 01:30:18.202] [modloading-worker-0/INFO] [xyz.apex.forge.commonality.Mods.CommonalityMod/]: Running Minecraft '1.20.1', & Forge '47.3.7' on Java '17.0.14, Ubuntu'
+[28Mar2025 01:30:18.205] [modloading-worker-0/INFO] [TrustedSourceList/]: Loading BlackListed sources from remote... (https://api.stopmodreposts.org/minecraft/sites.txt)
+[28Mar2025 01:30:18.367] [modloading-worker-0/INFO] [com.simibubi.create.Create/]: Create 6.0.4 initializing! Commit hash: 254bb816aee1c056c74b2ad4beb88222a499da78
+[28Mar2025 01:30:19.086] [modloading-worker-0/INFO] [Collective/]: Loading Collective version 7.94.
+[28Mar2025 01:30:19.302] [modloading-worker-0/INFO] [TrustedSourceList/]: Loaded 564 BlackListed sources from remote
+[28Mar2025 01:30:19.302] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'commonality' TrustWorthiness...
+[28Mar2025 01:30:19.302] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[28Mar2025 01:30:19.303] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'commonality' TrustWorthiness: UNKNOWN
+[28Mar2025 01:30:19.842] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[28Mar2025 01:30:19.870] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'apexcore' TrustWorthiness...
+[28Mar2025 01:30:19.871] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[28Mar2025 01:30:19.871] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'apexcore' TrustWorthiness: UNKNOWN
+[28Mar2025 01:30:19.889] [modloading-worker-0/INFO] [TrustManager/]: Loading mod 'fantasyfurniture' TrustWorthiness...
+[28Mar2025 01:30:19.889] [modloading-worker-0/FATAL] [TrustManager/]: Could not determine mod trust worthiness, Assuming Jar was downloaded from trusted source!
+[28Mar2025 01:30:19.889] [modloading-worker-0/INFO] [TrustManager/]: Loaded mod 'fantasyfurniture' TrustWorthiness: UNKNOWN
+[28Mar2025 01:30:19.895] [modloading-worker-0/WARN] [de.keksuccino.justzoom.JustZoom/]: [JUST ZOOM] Disabling 'Just Zoom' since it's a client-side mod and current environment is server!
+[28Mar2025 01:30:20.908] [modloading-worker-0/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class yesman.epicfight.world.capabilities.entitypatch.player.PlayerPatch
+[28Mar2025 01:30:21.061] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: The object net.minecraft.sounds.SoundEvent@6a4899c has been registered twice for the same name treechop:chop_wood.
+[28Mar2025 01:30:24.931] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[28Mar2025 01:30:24.939] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[28Mar2025 01:30:24.942] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[28Mar2025 01:30:24.944] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[28Mar2025 01:30:25.054] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[28Mar2025 01:30:25.068] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[28Mar2025 01:30:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.081] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.082] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.boss.wither.WitherBoss from class yesman.epicfight.world.capabilities.entitypatch.boss.WitherPatch
+[28Mar2025 01:30:25.248] [main/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-common.toml
+[28Mar2025 01:30:25.327] [modloading-worker-0/INFO] [net.tschipcraft.moremobs.forge.Init/]: [More Mobs] Loaded More Mobs by Tschipcraft successfully!
+[28Mar2025 01:30:25.371] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[28Mar2025 01:30:25.406] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [alexsmobsnaturalistcompat] Starting version check at https://api.modrinth.com/updates/v0NxYynO/forge_updates.json
+[28Mar2025 01:30:25.453] [modloading-worker-0/INFO] [studio.lunareclipse.watching.Init/]: From The Fog Loaded Successfully!
+[28Mar2025 01:30:25.506] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[28Mar2025 01:30:25.526] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[28Mar2025 01:30:25.532] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[28Mar2025 01:30:25.529] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[28Mar2025 01:30:25.534] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 snowball = 1 snow_block
+[28Mar2025 01:30:25.534] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 glowstone_dust = 1 glowstone
+[28Mar2025 01:30:25.534] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 brick = 1 bricks
+[28Mar2025 01:30:25.534] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 nether_brick = 1 nether_bricks
+[28Mar2025 01:30:25.535] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 nether_wart = 1 nether_wart_block
+[28Mar2025 01:30:25.535] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 quartz = 1 quartz_block
+[28Mar2025 01:30:25.535] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 9 melon_slice = 1 melon
+[28Mar2025 01:30:25.535] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 sand = 1 sandstone
+[28Mar2025 01:30:25.535] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 red_sand = 1 red_sandstone
+[28Mar2025 01:30:25.544] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[28Mar2025 01:30:25.544] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[28Mar2025 01:30:25.552] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[28Mar2025 01:30:25.579] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Tom's Storage Setup starting
+[28Mar2025 01:30:25.585] [modloading-worker-0/INFO] [com.tom.storagemod.StorageMod/]: Initilaized Network Handler
+[28Mar2025 01:30:25.592] [modloading-worker-0/INFO] [com.jaquadro.minecraft.storagedrawers.StorageDrawers/]: New compacting rule 4 clay_ball = 1 clay
+[28Mar2025 01:30:25.735] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[28Mar2025 01:30:25.736] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[28Mar2025 01:30:25.740] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[28Mar2025 01:30:25.740] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[28Mar2025 01:30:25.793] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
+[28Mar2025 01:30:25.793] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
+[28Mar2025 01:30:25.800] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 java.lang.NullPointerException: Cannot invoke "java.util.Map.get(Object)" because "promos" is null
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:189) ~[fmlcore-1.20.1-47.3.7.jar%23226!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:189) ~[fmlcore-1.20.1-47.3.7.jar%23228!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23226!/:?]
-[27Mar2025 04:22:43.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[27Mar2025 04:22:43.492] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[27Mar2025 04:22:43.497] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[27Mar2025 04:22:43.503] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[27Mar2025 04:22:43.503] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[27Mar2025 04:22:43.562] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying mega torch entity block list overrides...
-[27Mar2025 04:22:43.562] [modloading-worker-0/INFO] [net.xalcon.torchmaster.Torchmaster/]: Applying dread lamp entity block list overrides...
-[27Mar2025 04:22:43.613] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
-[27Mar2025 04:22:43.625] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[27Mar2025 04:22:43.626] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
-[27Mar2025 04:22:43.627] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
-[27Mar2025 04:22:43.629] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[27Mar2025 04:22:43.646] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[27Mar2025 04:22:43.653] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[27Mar2025 04:22:43.656] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[27Mar2025 04:22:43.657] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
-[27Mar2025 04:22:43.738] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[27Mar2025 04:22:43.740] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
-[27Mar2025 04:22:44.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
-[27Mar2025 04:22:44.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[27Mar2025 04:22:44.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[27Mar2025 04:22:44.549] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
-[27Mar2025 04:22:45.395] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
-[27Mar2025 04:22:45.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[27Mar2025 04:22:45.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
-[27Mar2025 04:22:45.566] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[27Mar2025 04:22:45.720] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
-[27Mar2025 04:22:45.725] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[27Mar2025 04:22:45.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
-[27Mar2025 04:22:45.864] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[27Mar2025 04:22:46.358] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[27Mar2025 04:22:46.359] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[27Mar2025 04:22:46.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[27Mar2025 04:22:46.376] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
-[27Mar2025 04:22:46.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
-[27Mar2025 04:22:46.503] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
-[27Mar2025 04:22:46.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
-[27Mar2025 04:22:46.627] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
-[27Mar2025 04:22:46.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
-[27Mar2025 04:22:46.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
-[27Mar2025 04:22:46.932] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
-[27Mar2025 04:22:52.243] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[27Mar2025 04:22:56.939] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23225!/assets/.mcassetsroot' uses unexpected schema
-[27Mar2025 04:22:56.939] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23225!/data/.mcassetsroot' uses unexpected schema
-[27Mar2025 04:22:57.149] [main/INFO] [com.simibubi.create.Create/]: Created 270 recipes which will be injected into the game
-[27Mar2025 04:22:57.167] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
-[27Mar2025 04:22:58.605] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[27Mar2025 04:22:58.766] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:mantis_shrimp_targets as it is missing following references: naturalist:bass (from Compat_AlexsMobs-Naturalist.jar)
-[27Mar2025 04:22:59.762] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
-[27Mar2025 04:23:01.338] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:teddy_bear
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23228!/:?]
+[28Mar2025 01:30:25.802] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[28Mar2025 01:30:25.828] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ht.treechop.compat.Jade
+[28Mar2025 01:30:25.837] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[28Mar2025 01:30:25.839] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.balm.forge.compat.hudinfo.ForgeJadeModCompat
+[28Mar2025 01:30:25.840] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[28Mar2025 01:30:25.842] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[28Mar2025 01:30:25.853] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[28Mar2025 01:30:25.857] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[28Mar2025 01:30:25.859] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[28Mar2025 01:30:25.862] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.jaquadro.minecraft.storagedrawers.integration.Waila
+[28Mar2025 01:30:26.112] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[28Mar2025 01:30:26.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Starting version check at https://api.modrinth.com/updates/HJR6V0I2/forge_updates.json
+[28Mar2025 01:30:26.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moremobs] Found status: UP_TO_DATE Current: 1.5.4+mod Target: null
+[28Mar2025 01:30:26.295] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[28Mar2025 01:30:26.705] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[28Mar2025 01:30:26.706] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[28Mar2025 01:30:27.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[28Mar2025 01:30:27.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[28Mar2025 01:30:27.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: AHEAD Current: 1.20.1-2.5.28 Target: null
+[28Mar2025 01:30:27.998] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[28Mar2025 01:30:28.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.8 Target: 1.20.1-1.4.10
+[28Mar2025 01:30:28.144] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[28Mar2025 01:30:28.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [commonality] Found status: OUTDATED Current: 7.0.0 Target: 10.0.0
+[28Mar2025 01:30:28.297] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[28Mar2025 01:30:28.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[28Mar2025 01:30:28.749] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[28Mar2025 01:30:28.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[28Mar2025 01:30:28.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Starting version check at https://api.modrinth.com/updates/apexcore/forge_updates.json
+[28Mar2025 01:30:28.892] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [apexcore] Found status: UP_TO_DATE Current: 10.0.0 Target: null
+[28Mar2025 01:30:28.893] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Starting version check at https://api.modrinth.com/updates/fantasy-furniture/forge_updates.json
+[28Mar2025 01:30:29.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fantasyfurniture] Found status: UP_TO_DATE Current: 9.0.0 Target: null
+[28Mar2025 01:30:29.033] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Starting version check at https://raw.githubusercontent.com/tom5454/Toms-Storage/master/version-check.json
+[28Mar2025 01:30:29.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [toms_storage] Found status: BETA Current: 1.7.0 Target: 1.6.9
+[28Mar2025 01:30:29.135] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Starting version check at https://forge.curseupdate.com/433068/presencefootsteps
+[28Mar2025 01:30:29.464] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [presencefootsteps] Found status: BETA Current: 1.20.1-1.9.1-beta.1 Target: 1.20.1-1.9.1-beta.1
+[28Mar2025 01:30:31.688] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[28Mar2025 01:30:31.890] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: etched:etching_table Expected: 1103 Got: 3294
+[28Mar2025 01:30:31.891] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: etched:album_jukebox Expected: 1104 Got: 3295
+[28Mar2025 01:30:31.891] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: etched:radio Expected: 1105 Got: 3296
+[28Mar2025 01:30:31.892] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:music_label Expected: 1698 Got: 4439
+[28Mar2025 01:30:31.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:complex_music_label Expected: 1699 Got: 4440
+[28Mar2025 01:30:31.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:blank_music_disc Expected: 1700 Got: 4441
+[28Mar2025 01:30:31.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:etched_music_disc Expected: 1701 Got: 4442
+[28Mar2025 01:30:31.893] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:jukebox_minecart Expected: 1702 Got: 4443
+[28Mar2025 01:30:31.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:boombox Expected: 1703 Got: 4444
+[28Mar2025 01:30:31.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:album_cover Expected: 1704 Got: 4445
+[28Mar2025 01:30:31.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:etching_table Expected: 1705 Got: 4446
+[28Mar2025 01:30:31.894] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:album_jukebox Expected: 1706 Got: 4447
+[28Mar2025 01:30:31.895] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:radio Expected: 1707 Got: 4448
+[28Mar2025 01:30:31.895] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: etched:portal_radio Expected: 1708 Got: 4449
+[28Mar2025 01:30:31.896] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: etched:ui.etching_table.take_result Expected: 1746 Got: 2483
+[28Mar2025 01:30:31.896] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: etched:jukebox_minecart Expected: 250 Got: 473
+[28Mar2025 01:30:31.901] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:point_of_interest_type: Object did not get ID it asked for. Name: etched:bard Expected: 24 Got: 33
+[28Mar2025 01:30:35.419] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/assets/.mcassetsroot' uses unexpected schema
+[28Mar2025 01:30:35.419] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23227!/data/.mcassetsroot' uses unexpected schema
+[28Mar2025 01:30:35.526] [main/INFO] [com.simibubi.create.Create/]: Created 270 recipes which will be injected into the game
+[28Mar2025 01:30:35.538] [main/INFO] [com.simibubi.create.Create/]: Created 21 tags which will be injected into the game
+[28Mar2025 01:30:36.787] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[28Mar2025 01:30:36.843] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag alexsmobs:mantis_shrimp_targets as it is missing following references: naturalist:bass (from Compat_AlexsMobs-Naturalist.jar)
+[28Mar2025 01:30:37.555] [Worker-Main-1/INFO] [epicfight/]: Register animations from epicfight
+[28Mar2025 01:30:38.619] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe naturalist:teddy_bear
 com.google.gson.JsonSyntaxException: Unknown item 'naturalist:teddy_bear'
-	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23230!/:?]
-	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23230!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23230!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItem(CraftingHelper.java:160) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:186) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151274_(ShapedRecipe.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:311) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.3.7-universal.jar%23232!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManager.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:67) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManager.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?]
 	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.Util.m_214652_(Util.java:783) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.Util.m_214679_(Util.java:772) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.Main.main(Main.java:166) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
 	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
 	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
@@ -199,8 +214,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'naturalist:teddy_bear'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[27Mar2025 04:23:01.398] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
-[27Mar2025 04:23:01.399] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
+[28Mar2025 01:30:38.664] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 23 recipes
+[28Mar2025 01:30:38.665] [main/ERROR] [net.minecraft.server.ServerFunctionLibrary/]: Failed to load function watching:check
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -212,206 +227,57 @@ java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Wh
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
 Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Unknown or incomplete command, see below for error at position 0: <--[HERE]
-	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
-	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23225!/:?]
+	at net.minecraft.commands.CommandFunction.m_77984_(CommandFunction.java:63) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
+	at net.minecraft.server.ServerFunctionLibrary.m_214320_(ServerFunctionLibrary.java:83) ~[server-1.20.1-20230612.114412-srg.jar%23227!/:?]
 	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 6 more
-[27Mar2025 04:23:01.594] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3737 advancements
-[27Mar2025 04:23:01.677] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[27Mar2025 04:23:05.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[27Mar2025 04:23:05.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[27Mar2025 04:23:05.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[27Mar2025 04:23:05.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[27Mar2025 04:23:05.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[27Mar2025 04:23:05.698] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[27Mar2025 04:23:05.815] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[27Mar2025 04:23:05.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[27Mar2025 04:23:05.816] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[27Mar2025 04:23:05.817] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[27Mar2025 04:23:05.842] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[27Mar2025 04:23:05.846] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
-[27Mar2025 04:23:05.859] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
-[27Mar2025 04:23:06.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[27Mar2025 04:23:11.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[27Mar2025 04:23:19.166] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.169] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.171] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.171] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.172] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.173] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.173] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.174] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.177] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.177] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.178] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.179] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.181] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.182] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.183] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.419] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[27Mar2025 04:23:19.917] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 16%
-[27Mar2025 04:23:20.418] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[27Mar2025 04:23:20.796] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 9379 ms
-[27Mar2025 04:23:20.796] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.960s)! For help, type "help"
-[27Mar2025 04:23:21.115] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[27Mar2025 04:23:21.122] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[27Mar2025 04:23:21.130] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'bank-gary.gl.at.ply.gg:4377'
-[27Mar2025 04:23:21.132] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4377
-[27Mar2025 04:23:31.896] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[27Mar2025 04:23:31.988] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:58195] logged in with entity id 127 at (-104.02052757646616, 200.15927939920192, -105.46220466486469)
-[27Mar2025 04:23:32.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
-[27Mar2025 04:23:32.314] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
-[27Mar2025 04:23:32.372] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
-[27Mar2025 04:23:32.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
-[27Mar2025 04:23:36.200] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
-[27Mar2025 04:23:37.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
-[27Mar2025 04:23:37.213] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
-[27Mar2025 04:28:06.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_ADMIN131[/127.95.0.238:38765] logged in with entity id 2285 at (-101.68178592306442, 192.0, -87.74987833551283)
-[27Mar2025 04:28:06.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 joined the game
-[27Mar2025 04:28:06.773] [Server thread/INFO] [Jade/]: Syncing config to EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c)
-[27Mar2025 04:28:07.067] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EL_ADMIN131 (18)
-[27Mar2025 04:28:07.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EL_ADMIN131
-[27Mar2025 04:28:15.563] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9f6bb79-cd69-3f32-9404-4e96387b902c
-[27Mar2025 04:28:16.568] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9f6bb79-cd69-3f32-9404-4e96387b902c
-[27Mar2025 04:28:16.569] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c) successfully connected to voice chat
-[27Mar2025 04:29:52.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> joa con mis shaders se ven plenos
-[27Mar2025 04:29:59.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> joa
-[27Mar2025 04:30:07.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> vamos a practicar
-[27Mar2025 04:30:25.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> la explosion se agrega en edicion
-[27Mar2025 04:30:32.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ==)?
-[27Mar2025 04:30:34.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> s+i
-[27Mar2025 04:30:52.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> jajaj tamos igual a oscuras
-[27Mar2025 04:31:03.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ni venos las teckas
-[27Mar2025 04:31:33.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [Spear Mint]
-[27Mar2025 04:32:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> jajaj si me hcisye reir
-[27Mar2025 04:33:02.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> noo
-[27Mar2025 04:33:05.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> aqui no
-[27Mar2025 04:33:30.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> joa pilla la animacion de volar esta plena
-[27Mar2025 04:33:46.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> aro esta plena
-[27Mar2025 04:33:57.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> bueno vamos acomenzar
-[27Mar2025 04:34:03.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> tu vas agrabat
-[27Mar2025 04:34:19.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> no te vayas tu eres el que me tiene que ir grabando
-[27Mar2025 04:34:30.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> en primera persona y f1
-[27Mar2025 04:34:48.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ah ya
-[27Mar2025 04:34:55.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pero no comienze
-[27Mar2025 04:35:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> has como si me estuviera grabando
-[27Mar2025 04:35:13.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> me avisas
-[27Mar2025 04:35:19.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ponte modo aventura
-[27Mar2025 04:35:34.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> yo te digo
-[27Mar2025 04:35:43.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pero no grabes todavia
-[27Mar2025 04:35:49.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ah
-[27Mar2025 04:36:07.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> joa
-[27Mar2025 04:36:10.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ay que añadir las voz entonces has moviemeotos
-[27Mar2025 04:36:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> sin voz mamawebo
-[27Mar2025 04:36:25.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> con la cabeza
-[27Mar2025 04:36:29.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> esto es ub corto
-[27Mar2025 04:36:38.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> despues se meten en el edid
-[27Mar2025 04:36:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> edit
-[27Mar2025 04:36:48.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ni quero
-[27Mar2025 04:36:50.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pilla
-[27Mar2025 04:36:52.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> hey
-[27Mar2025 04:36:57.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pero con modurador
-[27Mar2025 04:37:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> negativo
-[27Mar2025 04:37:08.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> nadie sabe que soy el ADMIN
-[27Mar2025 04:37:12.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ey pilla
-[27Mar2025 04:37:22.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> bno editas tu
-[27Mar2025 04:37:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> mas omenos
-[27Mar2025 04:37:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ey pilla
-[27Mar2025 04:37:34.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> seguro sale cule cagada
-[27Mar2025 04:37:41.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> je
-[27Mar2025 04:38:12.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> vamos hacer varias veces de diferetes tomas
-[27Mar2025 04:38:16.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> comenzemos
-[27Mar2025 04:38:33.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> td <aviso
-[27Mar2025 04:38:41.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> ponte en modo spectador
-[27Mar2025 04:38:56.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
-[27Mar2025 04:39:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> quedate quieto vv
-[27Mar2025 04:39:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya
-[27Mar2025 04:43:07.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> corta
-[27Mar2025 04:43:50.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> HEY
-[27Mar2025 04:43:59.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> de
-[27Mar2025 04:44:11.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
-[27Mar2025 04:44:19.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> YA
-[27Mar2025 04:44:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> QUE TAL?
-[27Mar2025 04:44:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> hahahah
-[27Mar2025 04:44:36.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> salieron tomas melas
-[27Mar2025 04:44:44.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> te paso video
-[27Mar2025 04:44:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> HACEMOS OTRA?
-[27Mar2025 04:44:59.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> DIFERENTE PESPERTIVA
-[27Mar2025 04:45:18.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> Y AHORA TINES QUE APRECER TU
-[27Mar2025 04:45:36.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> VOLANDO Y ME TIRA UN CANDELZO
-[27Mar2025 04:45:47.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ey
-[27Mar2025 04:45:50.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> DIME
-[27Mar2025 04:45:55.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> donde guarda obs los videos
-[27Mar2025 04:46:09.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> mira si en scritorip
-[27Mar2025 04:46:13.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> escritorio
-[27Mar2025 04:46:26.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> oh depende donde lo pusiste
-[27Mar2025 04:46:55.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya lo ebconte
-[27Mar2025 04:47:37.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> a
-[27Mar2025 04:47:57.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya t lo encie
-[27Mar2025 04:48:02.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> dale
-[27Mar2025 04:48:07.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pilla el chat
-[27Mar2025 04:48:17.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> los mensajes anteriores
-[27Mar2025 04:48:18.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> 0k
-[27Mar2025 04:48:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> grabo cuando te tiro el candelazo
-[27Mar2025 04:48:40.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> otra toma y luego cuando yo llegue abajo
-[27Mar2025 04:48:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> escbibes corte
-[27Mar2025 04:48:53.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ok
-[27Mar2025 04:48:53.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> y yo me quedo quito
-[27Mar2025 04:48:56.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> quieto
-[27Mar2025 04:49:04.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
-[27Mar2025 04:49:19.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> luego me te alejas un poquito y te pones en tercera persona
-[27Mar2025 04:49:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> y desde los aire me mandas lo que fue
-[27Mar2025 04:50:04.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> luego nos vamos y nos tiramos 10 cosas de esa luego
-[27Mar2025 04:50:50.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> hacemos que se nos caen
-[27Mar2025 04:51:07.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pero cada vez mas bajo el suelo
-[27Mar2025 04:51:13.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> osea turas una y cambias de mano
-[27Mar2025 04:51:28.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> y luego en el piso
-[27Mar2025 04:51:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> nos damos puños
-[27Mar2025 04:51:55.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pilla mas omenos asi
-[27Mar2025 04:52:11.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> llega
-[27Mar2025 04:52:30.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
-[27Mar2025 04:52:41.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ta
-[27Mar2025 04:52:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> cuando yo me ponga frente de esto y pege un trueno tu paras de grabar me a mi
-[27Mar2025 04:52:59.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> me dices en el chat
-[27Mar2025 04:53:02.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> corte
-[27Mar2025 04:53:06.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ok
-[27Mar2025 04:53:10.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> y yo me quedo quieto
-[27Mar2025 04:53:32.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> luego te vas un poquito en tercera persona me mandas esa vuelta
-[27Mar2025 04:53:33.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> vanos q ne tebgo q dormu
-[27Mar2025 04:53:44.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> y yo te miro asi
-[27Mar2025 04:53:57.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> rapod
-[27Mar2025 04:54:03.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> tenfp q dpr,o
-[27Mar2025 04:54:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pero vez
-[27Mar2025 04:54:22.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> cadA MOMENTO VOY BAJANDO
-[27Mar2025 04:54:29.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> DESPUES AGO ESTO
-[27Mar2025 04:54:47.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> Y TE QUEDAS FRENTE A FRENTE MIRANDOME
-[27Mar2025 04:54:57.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
-[27Mar2025 04:55:07.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> Y AHI CORTAS
-[27Mar2025 04:55:16.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> Y TE PONES EN SU PER VIVENSIA
-[27Mar2025 04:55:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> 0k
-[27Mar2025 04:55:20.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> rapido
-[27Mar2025 04:55:33.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> PARA DARNS TROMPA Y QUE SE ESCCUCHE
-[27Mar2025 04:55:42.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> rapido
-[27Mar2025 04:55:46.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> Y TEN LA ESPADA
-[27Mar2025 04:55:51.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> rapidooooooooooooooooooooooo
-[27Mar2025 04:55:52.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> QUE ABRE PORTAL
-[27Mar2025 04:55:59.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
-[27Mar2025 04:56:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
-[27Mar2025 04:56:30.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> mejor mñn
-[27Mar2025 04:56:37.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya voy a dormi
-[27Mar2025 04:56:37.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> LO ABRE Y YO ME PONGO DE ESPALDA Y ME EPUJAS Y AHI VAS Y DAÑAS LA CASA Y LUEGO TE HACES TP DONDE ESTOY Y YA
-[27Mar2025 04:56:45.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> NO NO YA VAMOS AHACERLO
-[27Mar2025 04:56:51.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> chao ves haciendo el guion
-[27Mar2025 04:56:55.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> me lo pasa
-[27Mar2025 04:56:57.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> DEJEMOLO EN LA PELEAP
-[27Mar2025 04:56:57.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> nospi
-[27Mar2025 04:57:00.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> NO NO
-[27Mar2025 04:57:01.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> YA
-[27Mar2025 04:57:02.548] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ lost connection: Disconnected
-[27Mar2025 04:57:02.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
-[27Mar2025 04:57:02.551] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
-[27Mar2025 04:57:55.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 has made the advancement [Sweet Dreams]
-[27Mar2025 04:58:05.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_ADMIN131 lost connection: Disconnected
-[27Mar2025 04:58:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 left the game
-[27Mar2025 04:58:05.737] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EL_ADMIN131
+[28Mar2025 01:30:38.808] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3745 advancements
+[28Mar2025 01:30:38.888] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
+[28Mar2025 01:30:41.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[28Mar2025 01:30:41.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[28Mar2025 01:30:41.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[28Mar2025 01:30:41.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[28Mar2025 01:30:41.508] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[28Mar2025 01:30:41.546] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[28Mar2025 01:30:41.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[28Mar2025 01:30:41.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[28Mar2025 01:30:41.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[28Mar2025 01:30:41.623] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[28Mar2025 01:30:41.638] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[28Mar2025 01:30:41.640] [Thread-1/INFO] [de.cadentem.cave_dweller.CaveDweller/]: Server configuration has been reloaded
+[28Mar2025 01:30:41.642] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/etched-server.toml is not correct. Correcting
+[28Mar2025 01:30:41.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Boombox was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28Mar2025 01:30:41.643] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Boombox.Use boombox menu was corrected from null to its default, false. 
+[28Mar2025 01:30:41.644] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Album Cover was corrected from null to its default, SimpleCommentedConfig:{}. 
+[28Mar2025 01:30:41.644] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key Album Cover.Use album cover menu was corrected from null to its default, false. 
+[28Mar2025 01:30:41.652] [Server thread/INFO] [com.tom.storagemod.StorageMod/]: Loaded Tom's Simple Storage config file toms_storage-server.toml
+[28Mar2025 01:30:41.805] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[28Mar2025 01:30:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[28Mar2025 01:30:48.183] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.195] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.201] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.206] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.226] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.324] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.332] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:48.614] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:49.119] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:49.612] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[28Mar2025 01:30:50.112] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 63%
+[28Mar2025 01:30:50.322] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5211 ms
+[28Mar2025 01:30:50.323] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (8.688s)! For help, type "help"
+[28Mar2025 01:30:50.383] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[28Mar2025 01:30:50.389] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[28Mar2025 01:30:50.396] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'bank-gary.gl.at.ply.gg:4377'
+[28Mar2025 01:30:50.398] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4377
+[28Mar2025 01:31:12.250] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[28Mar2025 01:31:12.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:54117] logged in with entity id 85 at (-39.59334825327405, 79.12035987017286, -205.80560805576118)
+[28Mar2025 01:31:12.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
+[28Mar2025 01:31:12.606] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
+[28Mar2025 01:31:13.888] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
+[28Mar2025 01:31:13.890] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
+[28Mar2025 01:31:21.993] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 01:31:22.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 01:31:22.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[28Mar2025 01:31:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 01:36:34.010] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
