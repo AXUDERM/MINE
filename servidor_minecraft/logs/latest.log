@@ -252,3 +252,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 19:59:17.738] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [28Mar2025 19:59:17.747] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'bank-gary.gl.at.ply.gg:4377'
 [28Mar2025 19:59:17.749] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4377
+[28Mar2025 20:11:36.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[28Mar2025 20:12:18.502] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[28Mar2025 20:12:18.585] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:42441] logged in with entity id 164 at (-129.74231309064393, 77.0, -215.51490712589936)
+[28Mar2025 20:12:18.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
+[28Mar2025 20:12:18.880] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
+[28Mar2025 20:12:19.483] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
+[28Mar2025 20:12:19.485] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
+[28Mar2025 20:12:23.673] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:12:24.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:12:24.678] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[28Mar2025 20:15:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]
+[28Mar2025 20:15:55.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 20:16:05.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 20:16:41.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JairoJ13_[/127.95.0.238:41375] logged in with entity id 1592 at (-124.5, 78.0, -207.5)
+[28Mar2025 20:16:41.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ joined the game
+[28Mar2025 20:16:42.037] [Server thread/INFO] [Jade/]: Syncing config to JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6)
+[28Mar2025 20:16:43.410] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JairoJ13_ (18)
+[28Mar2025 20:16:43.410] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JairoJ13_
+[28Mar2025 20:16:52.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player fb106c7c-c344-390b-95a0-64a4fde516b6
+[28Mar2025 20:16:53.680] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player fb106c7c-c344-390b-95a0-64a4fde516b6
+[28Mar2025 20:16:53.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6) successfully connected to voice chat
+[28Mar2025 20:17:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ went up in flames
+[28Mar2025 20:18:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Alex's Mobs]
