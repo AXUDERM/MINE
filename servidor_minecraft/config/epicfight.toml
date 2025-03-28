@@ -18,5 +18,5 @@
 	noMobsInBossfight = true
 	disapleEntityUI = false
 	keepSkills = true
-	doVanillaAttack = true
+	doVanillaAttack = false
 

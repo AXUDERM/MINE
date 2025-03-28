@@ -265,3 +265,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 19:05:50.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_ADMIN131 lost connection: Disconnected
 [28Mar2025 19:05:50.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 left the game
 [28Mar2025 19:05:50.348] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EL_ADMIN131
+[28Mar2025 19:12:17.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_ADMIN131[/127.95.0.238:33699] logged in with entity id 1934 at (-123.25768583457803, 77.0, -218.85827595013313)
+[28Mar2025 19:12:17.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 joined the game
+[28Mar2025 19:12:18.025] [Server thread/INFO] [Jade/]: Syncing config to EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c)
+[28Mar2025 19:12:19.386] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EL_ADMIN131 (18)
+[28Mar2025 19:12:19.386] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EL_ADMIN131
+[28Mar2025 19:12:28.830] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[28Mar2025 19:12:29.832] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[28Mar2025 19:12:29.833] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c) successfully connected to voice chat
+[28Mar2025 19:14:03.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 19:15:13.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 19:15:21.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 19:15:32.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 19:15:45.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 19:15:57.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
