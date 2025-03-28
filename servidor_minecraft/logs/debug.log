@@ -9717,3 +9717,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 04:04:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
 [28Mar2025 04:04:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> llega
 [28Mar2025 04:04:49.947] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting group of EL_ADMIN131: {disabled=false, disconnected=false, uuid=e9f6bb79-cd69-3f32-9404-4e96387b902c, name=EL_ADMIN131, group=56f1b7bc-b42d-4d93-aa15-ec41343fa225}
+[28Mar2025 04:05:20.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
+[28Mar2025 04:05:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 04:05:49.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 04:05:49.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 04:07:30.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 04:07:56.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Removed all skills from EL_ADMIN131]
+[28Mar2025 04:08:04.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Added skill Roll to EL_ADMIN131]
+[28Mar2025 04:08:16.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 04:08:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 04:08:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 04:10:49.312] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 04:10:49.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 04:11:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> me voy a editar
+[28Mar2025 04:11:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> todo bien
+[28Mar2025 04:11:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> no se que hacer
+[28Mar2025 04:11:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> jajaja
+[28Mar2025 04:11:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> no se editar
+[28Mar2025 04:11:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> jaja dale
+[28Mar2025 04:11:21.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_ADMIN131 lost connection: Disconnected
+[28Mar2025 04:11:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 left the game
+[28Mar2025 04:11:21.691] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EL_ADMIN131
+[28Mar2025 04:11:21.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EL_ADMIN131
+[28Mar2025 04:11:21.708] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.729] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.747] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.766] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.786] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.804] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.830] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.848] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.868] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.886] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.905] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.926] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.950] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.968] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:21.986] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:22.006] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:22.028] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:22.050] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:11:22.068] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player e9f6bb79-cd69-3f32-9404-4e96387b902c does not have a secret
+[28Mar2025 04:14:21.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 04:14:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 04:15:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]

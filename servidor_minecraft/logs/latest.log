@@ -487,3 +487,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 04:03:51.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> no quero
 [28Mar2025 04:04:15.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
 [28Mar2025 04:04:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> llega
+[28Mar2025 04:05:20.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to EL_ADMIN131]
+[28Mar2025 04:05:21.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 04:07:30.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 04:07:56.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Removed all skills from EL_ADMIN131]
+[28Mar2025 04:08:04.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Added skill Roll to EL_ADMIN131]
+[28Mar2025 04:08:16.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 04:08:27.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 04:08:45.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 04:11:01.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> me voy a editar
+[28Mar2025 04:11:06.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> todo bien
+[28Mar2025 04:11:11.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> no se que hacer
+[28Mar2025 04:11:13.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> jajaja
+[28Mar2025 04:11:16.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> no se editar
+[28Mar2025 04:11:18.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> jaja dale
+[28Mar2025 04:11:21.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EL_ADMIN131 lost connection: Disconnected
+[28Mar2025 04:11:21.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 left the game
+[28Mar2025 04:11:21.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EL_ADMIN131
+[28Mar2025 04:14:21.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
+[28Mar2025 04:14:39.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 04:15:17.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Spectator Mode]
