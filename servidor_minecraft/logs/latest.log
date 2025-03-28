@@ -275,3 +275,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 20:16:53.681] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player JairoJ13_ (fb106c7c-c344-390b-95a0-64a4fde516b6) successfully connected to voice chat
 [28Mar2025 20:17:02.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ went up in flames
 [28Mar2025 20:18:00.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Alex's Mobs]
+[28Mar2025 20:20:45.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Stone Age]
+[28Mar2025 20:21:40.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Getting an Upgrade]
+[28Mar2025 20:23:45.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RIP_amell27[/127.141.144.18:54177] logged in with entity id 4872 at (-126.5, 77.0, -217.5)
+[28Mar2025 20:23:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 joined the game
+[28Mar2025 20:23:45.219] [Server thread/INFO] [Jade/]: Syncing config to RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d)
+[28Mar2025 20:23:46.469] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of RIP_amell27 (18)
+[28Mar2025 20:23:46.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to RIP_amell27
+[28Mar2025 20:23:53.529] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 54bba00c-f55f-37f5-a967-73421305549d
+[28Mar2025 20:23:54.531] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 54bba00c-f55f-37f5-a967-73421305549d
+[28Mar2025 20:23:54.532] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player RIP_amell27 (54bba00c-f55f-37f5-a967-73421305549d) successfully connected to voice chat
+[28Mar2025 20:24:20.622] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=75, z=-215}
+[28Mar2025 20:24:21.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=76, z=-215}
+[28Mar2025 20:24:26.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=76, z=-215}
+[28Mar2025 20:24:49.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was bitten in two by a prehistoric ghost controlled by _RUD3US_
+[28Mar2025 20:24:51.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! -28.19999998807907,-19.79270847958709,-1.66577278195237
+[28Mar2025 20:24:52.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! -28.19999998807907,-21.844341221707253,-1.66577278195237
+[28Mar2025 20:25:13.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> JAJAJAJA
+[28Mar2025 20:25:24.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was bitten in two by a prehistoric ghost controlled by _RUD3US_
+[28Mar2025 20:25:26.277] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! 38.14963398741568,-21.503009591385265,2.270957609521986
+[28Mar2025 20:25:26.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! 38.14963398741568,-23.844341221707253,2.270957609521986
+[28Mar2025 20:25:27.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! -38.14948992663906,24.227751149581337,-2.2709620517964026
+[28Mar2025 20:25:27.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RIP_amell27 moved too quickly! -38.15365925121225,26.344587731821917,-2.2969085703003316
+[28Mar2025 20:25:45.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ lost connection: Disconnected
+[28Mar2025 20:25:45.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
+[28Mar2025 20:25:45.375] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
+[28Mar2025 20:25:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> admin puto
+[28Mar2025 20:25:56.333] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:52037] logged in with entity id 7306 at (-145.14323816753364, 90.14793891827762, -214.5426764596109)
+[28Mar2025 20:25:56.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
+[28Mar2025 20:25:56.395] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
+[28Mar2025 20:25:56.587] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
+[28Mar2025 20:25:56.588] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
+[28Mar2025 20:26:01.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:26:02.454] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:26:02.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[28Mar2025 20:26:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> admi te llevaste a mi hijo
+[28Mar2025 20:26:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ruega q t salve
+[28Mar2025 20:27:03.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was slain by Zombie
+[28Mar2025 20:27:06.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-137, y=78, z=-225}
+[28Mar2025 20:27:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RIP_amell27> q es essa pálabra
+[28Mar2025 20:27:50.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ has made the advancement [Sweet Dreams]
+[28Mar2025 20:28:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> admin hueso
+[28Mar2025 20:28:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> ah no
+[28Mar2025 20:28:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> no estoy para ti imbecil
+[28Mar2025 20:28:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> tu no eres el admin
