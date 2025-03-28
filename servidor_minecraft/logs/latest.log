@@ -352,3 +352,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 02:05:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> si
 [28Mar2025 02:07:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya
 [28Mar2025 02:12:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]
+[28Mar2025 02:25:26.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Added skill Step to EL_ADMIN131]
+[28Mar2025 02:25:37.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Added skill Roll to EL_ADMIN131]
+[28Mar2025 02:27:46.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ has made the advancement [Spear Mint]
+[28Mar2025 02:27:56.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ has made the advancement [Acquire Hardware]
+[28Mar2025 02:32:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> pon unaantorcha
