@@ -1593,9 +1593,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "alexscaves:alexscaves/frostmint_spear": {
     "criteria": {
-      "slept_in_bed": "2025-03-27 04:57:55 +0000"
+      "deep_sea_sushi_roll": "2025-03-27 04:31:33 +0000"
     },
     "done": true
   },
@@ -1623,9 +1623,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/frostmint_spear": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "deep_sea_sushi_roll": "2025-03-27 04:31:33 +0000"
+      "slept_in_bed": "2025-03-27 04:57:55 +0000"
     },
     "done": true
   },

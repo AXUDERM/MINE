@@ -1522,12 +1522,6 @@
     },
     "done": true
   },
-  "etched:recipes/misc/blank_music_disc": {
-    "criteria": {
-      "has_music_disc": "2025-03-28 01:36:41 +0000"
-    },
-    "done": true
-  },
   "etched:recipes/decorations/album_jukebox": {
     "criteria": {
       "has_jukebox": "2025-03-28 01:31:12 +0000"
@@ -1543,6 +1537,12 @@
   "etched:recipes/transportation/jukebox_minecart": {
     "criteria": {
       "has_minecart": "2025-03-28 01:31:12 +0000"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/blank_music_disc": {
+    "criteria": {
+      "has_music_disc": "2025-03-28 01:36:41 +0000"
     },
     "done": true
   },
