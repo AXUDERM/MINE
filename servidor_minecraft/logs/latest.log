@@ -351,3 +351,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 02:05:42.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> q dices?
 [28Mar2025 02:05:47.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> si
 [28Mar2025 02:07:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya
+[28Mar2025 02:12:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]

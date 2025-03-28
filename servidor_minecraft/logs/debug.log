@@ -9660,3 +9660,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 02:05:50.379] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Mar2025 02:05:50.391] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Mar2025 02:07:52.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> ya
+[28Mar2025 02:10:50.372] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 02:10:50.385] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Mar2025 02:12:58.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the weather to rain & thunder]
+[28Mar2025 02:15:50.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Mar2025 02:15:50.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
