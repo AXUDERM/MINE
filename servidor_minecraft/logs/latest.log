@@ -282,3 +282,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 03:09:40.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Applied effect Glowing to _RUD3US_]
 [28Mar2025 03:12:21.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
 [28Mar2025 03:13:48.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:15:05.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:15:06.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[28Mar2025 03:15:33.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ was kicked for floating too long!
+[28Mar2025 03:15:33.098] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ lost connection: Disconnected
+[28Mar2025 03:15:33.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
+[28Mar2025 03:15:33.101] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
+[28Mar2025 03:15:33.145] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Mar2025 03:15:33.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:15:51.098] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6acc52a5[id=<null>,name=_RUD3US_,properties={},legacy=false] (/127.44.237.189:57173) lost connection: Disconnected
+[28Mar2025 03:15:59.066] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:34163] logged in with entity id 14403 at (-104.4307520871541, 74.56595999245182, -78.60588522491751)
+[28Mar2025 03:15:59.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
+[28Mar2025 03:15:59.126] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
+[28Mar2025 03:15:59.321] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
+[28Mar2025 03:15:59.321] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
+[28Mar2025 03:16:04.774] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 03:16:05.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 03:16:05.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
+[28Mar2025 03:16:17.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:16:53.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Survival Mode]
+[28Mar2025 03:17:01.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[28Mar2025 03:19:30.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:19:43.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:19:49.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 03:20:17.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Creative Mode]
+[28Mar2025 03:20:29.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Set own game mode to Spectator Mode]
+[28Mar2025 03:20:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Nuclear Bomb]
+[28Mar2025 03:22:51.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> (/execute summon minecraft:lightning_bolt
+[28Mar2025 03:24:07.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Lightning Bolt]
+[28Mar2025 03:24:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:17.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:19.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:21.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:21.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:22.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:27.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:28.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:30.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:31.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:31.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:32.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:32.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:33.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:34.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:34.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:35.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:35.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:36.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:36.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
+[28Mar2025 03:24:46.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [EL_ADMIN131: Summoned new Lightning Bolt]
