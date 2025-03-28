@@ -281,3 +281,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 01:31:22.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
 [28Mar2025 01:31:49.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
 [28Mar2025 01:36:34.010] [Downloader 2/INFO] [gg.moonflower.etched.common.sound.download.SoundCloudSource/]: Retrieving sound cloud id
+[28Mar2025 01:46:53.276] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EL_ADMIN131[/127.95.231.57:56421] logged in with entity id 5820 at (-101.5, 192.0, -80.5)
+[28Mar2025 01:46:53.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EL_ADMIN131 joined the game
+[28Mar2025 01:46:53.348] [Server thread/INFO] [Jade/]: Syncing config to EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c)
+[28Mar2025 01:46:54.626] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EL_ADMIN131 (18)
+[28Mar2025 01:46:54.626] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EL_ADMIN131
+[28Mar2025 01:47:04.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[28Mar2025 01:47:05.310] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e9f6bb79-cd69-3f32-9404-4e96387b902c
+[28Mar2025 01:47:05.311] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EL_ADMIN131 (e9f6bb79-cd69-3f32-9404-4e96387b902c) successfully connected to voice chat
+[28Mar2025 01:48:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EL_ADMIN131> afk 4 minutos
+[28Mar2025 01:48:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> hazte tp
+[28Mar2025 01:48:11.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> aca
+[28Mar2025 01:50:04.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported 2 entities to _RUD3US_]
