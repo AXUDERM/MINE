@@ -319,3 +319,48 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [28Mar2025 20:28:24.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> ah no
 [28Mar2025 20:28:25.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> no estoy para ti imbecil
 [28Mar2025 20:28:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> tu no eres el admin
+[28Mar2025 20:28:54.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=78, z=-138} BlockPos{x=-104, y=77, z=-139}
+[28Mar2025 20:29:13.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> has visto lo q puedo hacer?
+[28Mar2025 20:29:24.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> sal te esperare
+[28Mar2025 20:29:31.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> como un mortal
+[28Mar2025 20:29:31.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> si?
+[28Mar2025 20:29:36.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Survival Mode]
+[28Mar2025 20:29:39.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was slain by Zombie Miner
+[28Mar2025 20:30:23.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set own game mode to Creative Mode]
+[28Mar2025 20:30:58.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was bitten in two by a prehistoric ghost controlled by _RUD3US_
+[28Mar2025 20:31:00.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JairoJ13_ moved too quickly! 10.199999988079071,-4.960825445737726,-12.48245231345956
+[28Mar2025 20:31:26.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RIP_amell27 was bitten in two by a prehistoric ghost controlled by _RUD3US_
+[28Mar2025 20:31:36.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:32:13.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by JairoJ13_
+[28Mar2025 20:32:49.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Set the world spawn point to -119, 77, -216 [0.0]]
+[28Mar2025 20:33:07.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Summoned new Lightning Bolt]
+[28Mar2025 20:33:27.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:33:30.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> JAJAJAAJ IMBECILES
+[28Mar2025 20:33:39.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> NO PENSARON Q SERIA FACIL?
+[28Mar2025 20:33:44.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie
+[28Mar2025 20:34:03.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> servidor de mierda
+[28Mar2025 20:34:09.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie
+[28Mar2025 20:34:29.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie
+[28Mar2025 20:34:36.155] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['JairoJ13_'/13059, l='ServerLevel[world]', x=-102.69, y=78.73, z=-136.25] died: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:34:47.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:35:00.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: The difficulty has been set to Normal]
+[28Mar2025 20:35:10.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:35:46.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JairoJ13_ was slain by Zombie Notch
+[28Mar2025 20:36:27.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [_RUD3US_: Teleported _RUD3US_ to RIP_amell27]
+[28Mar2025 20:36:47.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> amel
+[28Mar2025 20:36:50.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> gay
+[28Mar2025 20:36:54.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> zzzz
+[28Mar2025 20:37:27.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <_RUD3US_> le dio miedo aparecer
+[28Mar2025 20:37:33.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> durme
+[28Mar2025 20:37:38.513] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: _RUD3US_ lost connection: Disconnected
+[28Mar2025 20:37:38.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ left the game
+[28Mar2025 20:37:38.514] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client _RUD3US_
+[28Mar2025 20:37:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JairoJ13_> zzzz
+[28Mar2025 20:37:51.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: _RUD3US_[/127.44.237.189:47065] logged in with entity id 16587 at (-120.77968846678051, 79.94930325258512, -218.17670761086964)
+[28Mar2025 20:37:51.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: _RUD3US_ joined the game
+[28Mar2025 20:37:52.040] [Server thread/INFO] [Jade/]: Syncing config to _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d)
+[28Mar2025 20:37:52.171] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of _RUD3US_ (18)
+[28Mar2025 20:37:52.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to _RUD3US_
+[28Mar2025 20:37:56.156] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:37:57.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7c69861c-727f-345e-90ce-0e81ce185d3d
+[28Mar2025 20:37:57.161] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player _RUD3US_ (7c69861c-727f-345e-90ce-0e81ce185d3d) successfully connected to voice chat
